@@ -1,0 +1,88 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage
+    x:Class="Shopnear.Views.Register"
+    xmlns="http://xamarin.com/schemas/2014/forms"
+    xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml">
+    <ContentPage.Content>
+        <Grid x:Name="MainStackLayout" Margin="20">
+            <Grid.RowDefinitions>
+                <RowDefinition />
+                <RowDefinition Height="75" />
+                <RowDefinition Height="10" />
+                <RowDefinition Height="75" />
+                <RowDefinition Height="10" />
+                <RowDefinition Height="70" />
+                <RowDefinition Height="30" />
+                <RowDefinition Height="70" />
+                <RowDefinition Height="*" />
+
+            </Grid.RowDefinitions>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition />
+            </Grid.ColumnDefinitions>
+
+            <Label
+                x:Name="signuplabel"
+                Grid.Row="0"
+                Grid.ColumnSpan="2"
+                FontSize="30"
+                HorizontalOptions="Center"
+                TextColor="DarkGray"
+                VerticalOptions="Center" />
+
+            <Frame
+                Grid.Row="1"
+                Grid.ColumnSpan="2"
+                BorderColor="DarkGray"
+                HorizontalOptions="FillAndExpand">
+                <StackLayout>
+                    <Entry
+                        x:Name="emaillabel"
+                        HorizontalOptions="FillAndExpand"
+                        Text="{Binding email}"
+                        VerticalOptions="End" />
+                </StackLayout>
+            </Frame>
+
+            <Frame
+                Grid.Row="3"
+                Grid.ColumnSpan="2"
+                BorderColor="DarkGray"
+                HorizontalOptions="FillAndExpand">
+                <StackLayout>
+                    <Entry
+                        x:Name="passlabel"
+                        HorizontalOptions="FillAndExpand"
+                        IsPassword="True"
+                        Text="{Binding pass}" />
+                </StackLayout>
+            </Frame>
+
+            <Frame
+                Grid.Row="5"
+                Grid.ColumnSpan="2"
+                BorderColor="DarkGray"
+                HorizontalOptions="FillAndExpand">
+                <StackLayout>
+                    <Entry
+                        x:Name="cpwlabel"
+                        HorizontalOptions="FillAndExpand"
+                        IsPassword="True"
+                        Text="{Binding confirmpass}" />
+                </StackLayout>
+            </Frame>
+
+
+            <Button
+                x:Name="signupbut"
+                Grid.Row="7"
+                Grid.ColumnSpan="2"
+                BackgroundColor="#48525e"
+                Clicked="OnSignUp"
+                FontSize="20"
+                TextColor="LightGray" />
+
+
+        </Grid>
+    </ContentPage.Content>
+</ContentPage>

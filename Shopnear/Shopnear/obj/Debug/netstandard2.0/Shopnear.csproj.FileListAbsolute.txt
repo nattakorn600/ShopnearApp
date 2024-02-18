@@ -1,0 +1,587 @@
+C:\Users\Nitro-5\source\repos\Shopnear\Shopnear\Shopnear\bin\Debug\netstandard2.0\Shopnear.deps.json
+C:\Users\Nitro-5\source\repos\Shopnear\Shopnear\Shopnear\bin\Debug\netstandard2.0\Shopnear.dll
+C:\Users\Nitro-5\source\repos\Shopnear\Shopnear\Shopnear\obj\Debug\netstandard2.0\Shopnear.csprojAssemblyReference.cache
+C:\Users\Nitro-5\source\repos\Shopnear\Shopnear\Shopnear\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Nitro-5\source\repos\Shopnear\Shopnear\Shopnear\obj\Debug\netstandard2.0\Views\AddAgentShop.xaml.g.cs
+C:\Users\Nitro-5\source\repos\Shopnear\Shopnear\Shopnear\obj\Debug\netstandard2.0\Views\AddNameShop.xaml.g.cs
+C:\Users\Nitro-5\source\repos\Shopnear\Shopnear\Shopnear\obj\Debug\netstandard2.0\Views\AddPayShop.xaml.g.cs
+C:\Users\Nitro-5\source\repos\Shopnear\Shopnear\Shopnear\obj\Debug\netstandard2.0\Views\AddProduct.xaml.g.cs
+C:\Users\Nitro-5\source\repos\Shopnear\Shopnear\Shopnear\obj\Debug\netstandard2.0\Views\AddShop.xaml.g.cs
+C:\Users\Nitro-5\source\repos\Shopnear\Shopnear\Shopnear\obj\Debug\netstandard2.0\Views\LoadingPop.xaml.g.cs
+C:\Users\Nitro-5\source\repos\Shopnear\Shopnear\Shopnear\obj\Debug\netstandard2.0\Views\loginPage.xaml.g.cs
+C:\Users\Nitro-5\source\repos\Shopnear\Shopnear\Shopnear\obj\Debug\netstandard2.0\Views\NewUserPopupPag.xaml.g.cs
+C:\Users\Nitro-5\source\repos\Shopnear\Shopnear\Shopnear\obj\Debug\netstandard2.0\Views\ProductDetail.xaml.g.cs
+C:\Users\Nitro-5\source\repos\Shopnear\Shopnear\Shopnear\obj\Debug\netstandard2.0\Views\ProductPage.xaml.g.cs
+C:\Users\Nitro-5\source\repos\Shopnear\Shopnear\Shopnear\obj\Debug\netstandard2.0\Views\ProfileInfoPage.xaml.g.cs
+C:\Users\Nitro-5\source\repos\Shopnear\Shopnear\Shopnear\obj\Debug\netstandard2.0\Views\ProfilePage.xaml.g.cs
+C:\Users\Nitro-5\source\repos\Shopnear\Shopnear\Shopnear\obj\Debug\netstandard2.0\Views\ReviewPop.xaml.g.cs
+C:\Users\Nitro-5\source\repos\Shopnear\Shopnear\Shopnear\obj\Debug\netstandard2.0\Views\Shop.xaml.g.cs
+C:\Users\Nitro-5\source\repos\Shopnear\Shopnear\Shopnear\obj\Debug\netstandard2.0\Shopnear.AssemblyInfoInputs.cache
+C:\Users\Nitro-5\source\repos\Shopnear\Shopnear\Shopnear\obj\Debug\netstandard2.0\Shopnear.AssemblyInfo.cs
+C:\Users\Nitro-5\source\repos\Shopnear\Shopnear\Shopnear\obj\Debug\netstandard2.0\Shopnear.csproj.CoreCompileInputs.cache
+C:\Users\Nitro-5\source\repos\Shopnear\Shopnear\Shopnear\bin\Debug\netstandard2.0\ref\Shopnear.dll
+C:\Users\Nitro-5\source\repos\Shopnear\Shopnear\Shopnear\bin\Debug\netstandard2.0\Shopnear.pdb
+C:\Users\Nitro-5\source\repos\Shopnear\Shopnear\Shopnear\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Nitro-5\source\repos\Shopnear\Shopnear\Shopnear\obj\Debug\netstandard2.0\Shopnear.dll
+C:\Users\Nitro-5\source\repos\Shopnear\Shopnear\Shopnear\obj\Debug\netstandard2.0\ref\Shopnear.dll
+C:\Users\Nitro-5\source\repos\Shopnear\Shopnear\Shopnear\obj\Debug\netstandard2.0\Shopnear.pdb
+C:\Users\Nitro-5\Desktop\Shopnear\Shopnear\Shopnear\bin\Debug\netstandard2.0\Shopnear.deps.json
+C:\Users\Nitro-5\Desktop\Shopnear\Shopnear\Shopnear\bin\Debug\netstandard2.0\Shopnear.dll
+C:\Users\Nitro-5\Desktop\Shopnear\Shopnear\Shopnear\bin\Debug\netstandard2.0\ref\Shopnear.dll
+C:\Users\Nitro-5\Desktop\Shopnear\Shopnear\Shopnear\bin\Debug\netstandard2.0\Shopnear.pdb
+C:\Users\Nitro-5\Desktop\Shopnear\Shopnear\Shopnear\obj\Debug\netstandard2.0\Shopnear.csprojAssemblyReference.cache
+C:\Users\Nitro-5\Desktop\Shopnear\Shopnear\Shopnear\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Nitro-5\Desktop\Shopnear\Shopnear\Shopnear\obj\Debug\netstandard2.0\Views\AddAgentShop.xaml.g.cs
+C:\Users\Nitro-5\Desktop\Shopnear\Shopnear\Shopnear\obj\Debug\netstandard2.0\Views\AddNameShop.xaml.g.cs
+C:\Users\Nitro-5\Desktop\Shopnear\Shopnear\Shopnear\obj\Debug\netstandard2.0\Views\AddPayShop.xaml.g.cs
+C:\Users\Nitro-5\Desktop\Shopnear\Shopnear\Shopnear\obj\Debug\netstandard2.0\Views\AddProduct.xaml.g.cs
+C:\Users\Nitro-5\Desktop\Shopnear\Shopnear\Shopnear\obj\Debug\netstandard2.0\Views\AddShop.xaml.g.cs
+C:\Users\Nitro-5\Desktop\Shopnear\Shopnear\Shopnear\obj\Debug\netstandard2.0\Views\LoadingPop.xaml.g.cs
+C:\Users\Nitro-5\Desktop\Shopnear\Shopnear\Shopnear\obj\Debug\netstandard2.0\Views\loginPage.xaml.g.cs
+C:\Users\Nitro-5\Desktop\Shopnear\Shopnear\Shopnear\obj\Debug\netstandard2.0\Views\NewUserPopupPag.xaml.g.cs
+C:\Users\Nitro-5\Desktop\Shopnear\Shopnear\Shopnear\obj\Debug\netstandard2.0\Views\ProductDetail.xaml.g.cs
+C:\Users\Nitro-5\Desktop\Shopnear\Shopnear\Shopnear\obj\Debug\netstandard2.0\Views\ProductPage.xaml.g.cs
+C:\Users\Nitro-5\Desktop\Shopnear\Shopnear\Shopnear\obj\Debug\netstandard2.0\Views\ProfileInfoPage.xaml.g.cs
+C:\Users\Nitro-5\Desktop\Shopnear\Shopnear\Shopnear\obj\Debug\netstandard2.0\Views\ProfilePage.xaml.g.cs
+C:\Users\Nitro-5\Desktop\Shopnear\Shopnear\Shopnear\obj\Debug\netstandard2.0\Views\ReviewPop.xaml.g.cs
+C:\Users\Nitro-5\Desktop\Shopnear\Shopnear\Shopnear\obj\Debug\netstandard2.0\Views\Shop.xaml.g.cs
+C:\Users\Nitro-5\Desktop\Shopnear\Shopnear\Shopnear\obj\Debug\netstandard2.0\Shopnear.AssemblyInfoInputs.cache
+C:\Users\Nitro-5\Desktop\Shopnear\Shopnear\Shopnear\obj\Debug\netstandard2.0\Shopnear.AssemblyInfo.cs
+C:\Users\Nitro-5\Desktop\Shopnear\Shopnear\Shopnear\obj\Debug\netstandard2.0\Shopnear.csproj.CoreCompileInputs.cache
+C:\Users\Nitro-5\Desktop\Shopnear\Shopnear\Shopnear\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Nitro-5\Desktop\Shopnear\Shopnear\Shopnear\obj\Debug\netstandard2.0\Shopnear.dll
+C:\Users\Nitro-5\Desktop\Shopnear\Shopnear\Shopnear\obj\Debug\netstandard2.0\ref\Shopnear.dll
+C:\Users\Nitro-5\Desktop\Shopnear\Shopnear\Shopnear\obj\Debug\netstandard2.0\Shopnear.pdb
+C:\Users\Nitro-5\Desktop\Shopnear\Shopnear\Shopnear\obj\Debug\netstandard2.0\Views\FollowBrand.xaml.g.cs
+C:\Users\msi-pc\Downloads\Shopnear (1)\Shopnear\Shopnear\Shopnear\bin\Debug\netstandard2.0\Shopnear.deps.json
+C:\Users\msi-pc\Downloads\Shopnear (1)\Shopnear\Shopnear\Shopnear\bin\Debug\netstandard2.0\Shopnear.dll
+C:\Users\msi-pc\Downloads\Shopnear (1)\Shopnear\Shopnear\Shopnear\bin\Debug\netstandard2.0\ref\Shopnear.dll
+C:\Users\msi-pc\Downloads\Shopnear (1)\Shopnear\Shopnear\Shopnear\bin\Debug\netstandard2.0\Shopnear.pdb
+C:\Users\msi-pc\Downloads\Shopnear (1)\Shopnear\Shopnear\Shopnear\obj\Debug\netstandard2.0\Shopnear.csprojAssemblyReference.cache
+C:\Users\msi-pc\Downloads\Shopnear (1)\Shopnear\Shopnear\Shopnear\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\msi-pc\Downloads\Shopnear (1)\Shopnear\Shopnear\Shopnear\obj\Debug\netstandard2.0\Views\AddAgentShop.xaml.g.cs
+C:\Users\msi-pc\Downloads\Shopnear (1)\Shopnear\Shopnear\Shopnear\obj\Debug\netstandard2.0\Views\AddNameShop.xaml.g.cs
+C:\Users\msi-pc\Downloads\Shopnear (1)\Shopnear\Shopnear\Shopnear\obj\Debug\netstandard2.0\Views\AddPayShop.xaml.g.cs
+C:\Users\msi-pc\Downloads\Shopnear (1)\Shopnear\Shopnear\Shopnear\obj\Debug\netstandard2.0\Views\AddProduct.xaml.g.cs
+C:\Users\msi-pc\Downloads\Shopnear (1)\Shopnear\Shopnear\Shopnear\obj\Debug\netstandard2.0\Views\AddShop.xaml.g.cs
+C:\Users\msi-pc\Downloads\Shopnear (1)\Shopnear\Shopnear\Shopnear\obj\Debug\netstandard2.0\Views\FollowBrand.xaml.g.cs
+C:\Users\msi-pc\Downloads\Shopnear (1)\Shopnear\Shopnear\Shopnear\obj\Debug\netstandard2.0\Views\LoadingPop.xaml.g.cs
+C:\Users\msi-pc\Downloads\Shopnear (1)\Shopnear\Shopnear\Shopnear\obj\Debug\netstandard2.0\Views\loginPage.xaml.g.cs
+C:\Users\msi-pc\Downloads\Shopnear (1)\Shopnear\Shopnear\Shopnear\obj\Debug\netstandard2.0\Views\NewUserPopupPag.xaml.g.cs
+C:\Users\msi-pc\Downloads\Shopnear (1)\Shopnear\Shopnear\Shopnear\obj\Debug\netstandard2.0\Views\ProductDetail.xaml.g.cs
+C:\Users\msi-pc\Downloads\Shopnear (1)\Shopnear\Shopnear\Shopnear\obj\Debug\netstandard2.0\Views\ProductPage.xaml.g.cs
+C:\Users\msi-pc\Downloads\Shopnear (1)\Shopnear\Shopnear\Shopnear\obj\Debug\netstandard2.0\Views\ProfileInfoPage.xaml.g.cs
+C:\Users\msi-pc\Downloads\Shopnear (1)\Shopnear\Shopnear\Shopnear\obj\Debug\netstandard2.0\Views\ProfilePage.xaml.g.cs
+C:\Users\msi-pc\Downloads\Shopnear (1)\Shopnear\Shopnear\Shopnear\obj\Debug\netstandard2.0\Views\ReviewPop.xaml.g.cs
+C:\Users\msi-pc\Downloads\Shopnear (1)\Shopnear\Shopnear\Shopnear\obj\Debug\netstandard2.0\Views\Shop.xaml.g.cs
+C:\Users\msi-pc\Downloads\Shopnear (1)\Shopnear\Shopnear\Shopnear\obj\Debug\netstandard2.0\Shopnear.AssemblyInfoInputs.cache
+C:\Users\msi-pc\Downloads\Shopnear (1)\Shopnear\Shopnear\Shopnear\obj\Debug\netstandard2.0\Shopnear.AssemblyInfo.cs
+C:\Users\msi-pc\Downloads\Shopnear (1)\Shopnear\Shopnear\Shopnear\obj\Debug\netstandard2.0\Shopnear.csproj.CoreCompileInputs.cache
+C:\Users\msi-pc\Downloads\Shopnear (1)\Shopnear\Shopnear\Shopnear\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\msi-pc\Downloads\Shopnear (1)\Shopnear\Shopnear\Shopnear\obj\Debug\netstandard2.0\Shopnear.dll
+C:\Users\msi-pc\Downloads\Shopnear (1)\Shopnear\Shopnear\Shopnear\obj\Debug\netstandard2.0\ref\Shopnear.dll
+C:\Users\msi-pc\Downloads\Shopnear (1)\Shopnear\Shopnear\Shopnear\obj\Debug\netstandard2.0\Shopnear.pdb
+C:\Users\msi-pc\Downloads\Shopnear\Shopnear\Shopnear\Shopnear\Shopnear\bin\Debug\netstandard2.0\Shopnear.deps.json
+C:\Users\msi-pc\Downloads\Shopnear\Shopnear\Shopnear\Shopnear\Shopnear\bin\Debug\netstandard2.0\Shopnear.dll
+C:\Users\msi-pc\Downloads\Shopnear\Shopnear\Shopnear\Shopnear\Shopnear\bin\Debug\netstandard2.0\ref\Shopnear.dll
+C:\Users\msi-pc\Downloads\Shopnear\Shopnear\Shopnear\Shopnear\Shopnear\bin\Debug\netstandard2.0\Shopnear.pdb
+C:\Users\msi-pc\Downloads\Shopnear\Shopnear\Shopnear\Shopnear\Shopnear\obj\Debug\netstandard2.0\Shopnear.csprojAssemblyReference.cache
+C:\Users\msi-pc\Downloads\Shopnear\Shopnear\Shopnear\Shopnear\Shopnear\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\msi-pc\Downloads\Shopnear\Shopnear\Shopnear\Shopnear\Shopnear\obj\Debug\netstandard2.0\Views\AddAgentShop.xaml.g.cs
+C:\Users\msi-pc\Downloads\Shopnear\Shopnear\Shopnear\Shopnear\Shopnear\obj\Debug\netstandard2.0\Views\AddNameShop.xaml.g.cs
+C:\Users\msi-pc\Downloads\Shopnear\Shopnear\Shopnear\Shopnear\Shopnear\obj\Debug\netstandard2.0\Views\AddPayShop.xaml.g.cs
+C:\Users\msi-pc\Downloads\Shopnear\Shopnear\Shopnear\Shopnear\Shopnear\obj\Debug\netstandard2.0\Views\AddProduct.xaml.g.cs
+C:\Users\msi-pc\Downloads\Shopnear\Shopnear\Shopnear\Shopnear\Shopnear\obj\Debug\netstandard2.0\Views\AddShop.xaml.g.cs
+C:\Users\msi-pc\Downloads\Shopnear\Shopnear\Shopnear\Shopnear\Shopnear\obj\Debug\netstandard2.0\Views\AgentCard.xaml.g.cs
+C:\Users\msi-pc\Downloads\Shopnear\Shopnear\Shopnear\Shopnear\Shopnear\obj\Debug\netstandard2.0\Views\FollowBrand.xaml.g.cs
+C:\Users\msi-pc\Downloads\Shopnear\Shopnear\Shopnear\Shopnear\Shopnear\obj\Debug\netstandard2.0\Views\LoadingPop.xaml.g.cs
+C:\Users\msi-pc\Downloads\Shopnear\Shopnear\Shopnear\Shopnear\Shopnear\obj\Debug\netstandard2.0\Views\loginPage.xaml.g.cs
+C:\Users\msi-pc\Downloads\Shopnear\Shopnear\Shopnear\Shopnear\Shopnear\obj\Debug\netstandard2.0\Views\NewUserPopupPag.xaml.g.cs
+C:\Users\msi-pc\Downloads\Shopnear\Shopnear\Shopnear\Shopnear\Shopnear\obj\Debug\netstandard2.0\Views\ProductDetail.xaml.g.cs
+C:\Users\msi-pc\Downloads\Shopnear\Shopnear\Shopnear\Shopnear\Shopnear\obj\Debug\netstandard2.0\Views\ProductPage.xaml.g.cs
+C:\Users\msi-pc\Downloads\Shopnear\Shopnear\Shopnear\Shopnear\Shopnear\obj\Debug\netstandard2.0\Views\ProfileInfoPage.xaml.g.cs
+C:\Users\msi-pc\Downloads\Shopnear\Shopnear\Shopnear\Shopnear\Shopnear\obj\Debug\netstandard2.0\Views\ProfilePage.xaml.g.cs
+C:\Users\msi-pc\Downloads\Shopnear\Shopnear\Shopnear\Shopnear\Shopnear\obj\Debug\netstandard2.0\Views\ReviewPop.xaml.g.cs
+C:\Users\msi-pc\Downloads\Shopnear\Shopnear\Shopnear\Shopnear\Shopnear\obj\Debug\netstandard2.0\Views\Shop.xaml.g.cs
+C:\Users\msi-pc\Downloads\Shopnear\Shopnear\Shopnear\Shopnear\Shopnear\obj\Debug\netstandard2.0\Shopnear.AssemblyInfoInputs.cache
+C:\Users\msi-pc\Downloads\Shopnear\Shopnear\Shopnear\Shopnear\Shopnear\obj\Debug\netstandard2.0\Shopnear.AssemblyInfo.cs
+C:\Users\msi-pc\Downloads\Shopnear\Shopnear\Shopnear\Shopnear\Shopnear\obj\Debug\netstandard2.0\Shopnear.csproj.CoreCompileInputs.cache
+C:\Users\msi-pc\Downloads\Shopnear\Shopnear\Shopnear\Shopnear\Shopnear\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\msi-pc\Downloads\Shopnear\Shopnear\Shopnear\Shopnear\Shopnear\obj\Debug\netstandard2.0\Shopnear.dll
+C:\Users\msi-pc\Downloads\Shopnear\Shopnear\Shopnear\Shopnear\Shopnear\obj\Debug\netstandard2.0\ref\Shopnear.dll
+C:\Users\msi-pc\Downloads\Shopnear\Shopnear\Shopnear\Shopnear\Shopnear\obj\Debug\netstandard2.0\Shopnear.pdb
+C:\Users\msi-pc\Desktop\Shopnear\Shopnear\Shopnear\Shopnear\bin\Debug\netstandard2.0\Shopnear.deps.json
+C:\Users\msi-pc\Desktop\Shopnear\Shopnear\Shopnear\Shopnear\bin\Debug\netstandard2.0\Shopnear.dll
+C:\Users\msi-pc\Desktop\Shopnear\Shopnear\Shopnear\Shopnear\bin\Debug\netstandard2.0\ref\Shopnear.dll
+C:\Users\msi-pc\Desktop\Shopnear\Shopnear\Shopnear\Shopnear\bin\Debug\netstandard2.0\Shopnear.pdb
+C:\Users\msi-pc\Desktop\Shopnear\Shopnear\Shopnear\Shopnear\obj\Debug\netstandard2.0\Shopnear.csprojAssemblyReference.cache
+C:\Users\msi-pc\Desktop\Shopnear\Shopnear\Shopnear\Shopnear\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\msi-pc\Desktop\Shopnear\Shopnear\Shopnear\Shopnear\obj\Debug\netstandard2.0\Views\AddAgentShop.xaml.g.cs
+C:\Users\msi-pc\Desktop\Shopnear\Shopnear\Shopnear\Shopnear\obj\Debug\netstandard2.0\Views\AddNameShop.xaml.g.cs
+C:\Users\msi-pc\Desktop\Shopnear\Shopnear\Shopnear\Shopnear\obj\Debug\netstandard2.0\Views\AddPayShop.xaml.g.cs
+C:\Users\msi-pc\Desktop\Shopnear\Shopnear\Shopnear\Shopnear\obj\Debug\netstandard2.0\Views\AddProduct.xaml.g.cs
+C:\Users\msi-pc\Desktop\Shopnear\Shopnear\Shopnear\Shopnear\obj\Debug\netstandard2.0\Views\AddShop.xaml.g.cs
+C:\Users\msi-pc\Desktop\Shopnear\Shopnear\Shopnear\Shopnear\obj\Debug\netstandard2.0\Views\AgentCard.xaml.g.cs
+C:\Users\msi-pc\Desktop\Shopnear\Shopnear\Shopnear\Shopnear\obj\Debug\netstandard2.0\Views\FollowBrand.xaml.g.cs
+C:\Users\msi-pc\Desktop\Shopnear\Shopnear\Shopnear\Shopnear\obj\Debug\netstandard2.0\Views\LoadingPop.xaml.g.cs
+C:\Users\msi-pc\Desktop\Shopnear\Shopnear\Shopnear\Shopnear\obj\Debug\netstandard2.0\Views\loginPage.xaml.g.cs
+C:\Users\msi-pc\Desktop\Shopnear\Shopnear\Shopnear\Shopnear\obj\Debug\netstandard2.0\Views\ProductDetail.xaml.g.cs
+C:\Users\msi-pc\Desktop\Shopnear\Shopnear\Shopnear\Shopnear\obj\Debug\netstandard2.0\Views\ProductPage.xaml.g.cs
+C:\Users\msi-pc\Desktop\Shopnear\Shopnear\Shopnear\Shopnear\obj\Debug\netstandard2.0\Views\ProfileInfoPage.xaml.g.cs
+C:\Users\msi-pc\Desktop\Shopnear\Shopnear\Shopnear\Shopnear\obj\Debug\netstandard2.0\Views\ProfilePage.xaml.g.cs
+C:\Users\msi-pc\Desktop\Shopnear\Shopnear\Shopnear\Shopnear\obj\Debug\netstandard2.0\Views\ReviewPop.xaml.g.cs
+C:\Users\msi-pc\Desktop\Shopnear\Shopnear\Shopnear\Shopnear\obj\Debug\netstandard2.0\Shopnear.AssemblyInfoInputs.cache
+C:\Users\msi-pc\Desktop\Shopnear\Shopnear\Shopnear\Shopnear\obj\Debug\netstandard2.0\Shopnear.AssemblyInfo.cs
+C:\Users\msi-pc\Desktop\Shopnear\Shopnear\Shopnear\Shopnear\obj\Debug\netstandard2.0\Shopnear.dll
+C:\Users\msi-pc\Desktop\Shopnear\Shopnear\Shopnear\Shopnear\obj\Debug\netstandard2.0\ref\Shopnear.dll
+C:\Users\msi-pc\Desktop\Shopnear\Shopnear\Shopnear\Shopnear\obj\Debug\netstandard2.0\Shopnear.pdb
+C:\Users\Nitro-5\Desktop\ProjectShopnear\SN1\Shopnear\Shopnear\Shopnear\bin\Debug\netstandard2.0\Shopnear.deps.json
+C:\Users\Nitro-5\Desktop\ProjectShopnear\SN1\Shopnear\Shopnear\Shopnear\bin\Debug\netstandard2.0\Shopnear.dll
+C:\Users\Nitro-5\Desktop\ProjectShopnear\SN1\Shopnear\Shopnear\Shopnear\bin\Debug\netstandard2.0\ref\Shopnear.dll
+C:\Users\Nitro-5\Desktop\ProjectShopnear\SN1\Shopnear\Shopnear\Shopnear\bin\Debug\netstandard2.0\Shopnear.pdb
+C:\Users\Nitro-5\Desktop\ProjectShopnear\SN1\Shopnear\Shopnear\Shopnear\obj\Debug\netstandard2.0\Shopnear.csprojAssemblyReference.cache
+C:\Users\Nitro-5\Desktop\ProjectShopnear\SN1\Shopnear\Shopnear\Shopnear\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Nitro-5\Desktop\ProjectShopnear\SN1\Shopnear\Shopnear\Shopnear\obj\Debug\netstandard2.0\Views\AddAgentShop.xaml.g.cs
+C:\Users\Nitro-5\Desktop\ProjectShopnear\SN1\Shopnear\Shopnear\Shopnear\obj\Debug\netstandard2.0\Views\AddNameShop.xaml.g.cs
+C:\Users\Nitro-5\Desktop\ProjectShopnear\SN1\Shopnear\Shopnear\Shopnear\obj\Debug\netstandard2.0\Views\AddPayShop.xaml.g.cs
+C:\Users\Nitro-5\Desktop\ProjectShopnear\SN1\Shopnear\Shopnear\Shopnear\obj\Debug\netstandard2.0\Views\AddProduct.xaml.g.cs
+C:\Users\Nitro-5\Desktop\ProjectShopnear\SN1\Shopnear\Shopnear\Shopnear\obj\Debug\netstandard2.0\Views\AddShop.xaml.g.cs
+C:\Users\Nitro-5\Desktop\ProjectShopnear\SN1\Shopnear\Shopnear\Shopnear\obj\Debug\netstandard2.0\Views\AgentCard.xaml.g.cs
+C:\Users\Nitro-5\Desktop\ProjectShopnear\SN1\Shopnear\Shopnear\Shopnear\obj\Debug\netstandard2.0\Views\FollowBrand.xaml.g.cs
+C:\Users\Nitro-5\Desktop\ProjectShopnear\SN1\Shopnear\Shopnear\Shopnear\obj\Debug\netstandard2.0\Views\LoadingPop.xaml.g.cs
+C:\Users\Nitro-5\Desktop\ProjectShopnear\SN1\Shopnear\Shopnear\Shopnear\obj\Debug\netstandard2.0\Views\loginPage.xaml.g.cs
+C:\Users\Nitro-5\Desktop\ProjectShopnear\SN1\Shopnear\Shopnear\Shopnear\obj\Debug\netstandard2.0\Views\ProductDetail.xaml.g.cs
+C:\Users\Nitro-5\Desktop\ProjectShopnear\SN1\Shopnear\Shopnear\Shopnear\obj\Debug\netstandard2.0\Views\ProductPage.xaml.g.cs
+C:\Users\Nitro-5\Desktop\ProjectShopnear\SN1\Shopnear\Shopnear\Shopnear\obj\Debug\netstandard2.0\Views\ProfileInfoPage.xaml.g.cs
+C:\Users\Nitro-5\Desktop\ProjectShopnear\SN1\Shopnear\Shopnear\Shopnear\obj\Debug\netstandard2.0\Views\ProfilePage.xaml.g.cs
+C:\Users\Nitro-5\Desktop\ProjectShopnear\SN1\Shopnear\Shopnear\Shopnear\obj\Debug\netstandard2.0\Views\ReviewPop.xaml.g.cs
+C:\Users\Nitro-5\Desktop\ProjectShopnear\SN1\Shopnear\Shopnear\Shopnear\obj\Debug\netstandard2.0\Shopnear.AssemblyInfoInputs.cache
+C:\Users\Nitro-5\Desktop\ProjectShopnear\SN1\Shopnear\Shopnear\Shopnear\obj\Debug\netstandard2.0\Shopnear.AssemblyInfo.cs
+C:\Users\Nitro-5\Desktop\ProjectShopnear\SN1\Shopnear\Shopnear\Shopnear\obj\Debug\netstandard2.0\Shopnear.csproj.CoreCompileInputs.cache
+C:\Users\Nitro-5\Desktop\ProjectShopnear\SN1\Shopnear\Shopnear\Shopnear\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Nitro-5\Desktop\ProjectShopnear\SN1\Shopnear\Shopnear\Shopnear\obj\Debug\netstandard2.0\Shopnear.dll
+C:\Users\Nitro-5\Desktop\ProjectShopnear\SN1\Shopnear\Shopnear\Shopnear\obj\Debug\netstandard2.0\ref\Shopnear.dll
+C:\Users\Nitro-5\Desktop\ProjectShopnear\SN1\Shopnear\Shopnear\Shopnear\obj\Debug\netstandard2.0\Shopnear.pdb
+C:\Users\msi-pc\Desktop\Shopnear\Shopnear\Shopnear\Shopnear\obj\Debug\netstandard2.0\Views\MapPage.xaml.g.cs
+C:\Users\msi-pc\source\repos\Shopnear\Shopnear\Shopnear\Shopnear\bin\Debug\netstandard2.0\Shopnear.deps.json
+C:\Users\msi-pc\source\repos\Shopnear\Shopnear\Shopnear\Shopnear\bin\Debug\netstandard2.0\Shopnear.dll
+C:\Users\msi-pc\source\repos\Shopnear\Shopnear\Shopnear\Shopnear\bin\Debug\netstandard2.0\ref\Shopnear.dll
+C:\Users\msi-pc\source\repos\Shopnear\Shopnear\Shopnear\Shopnear\bin\Debug\netstandard2.0\Shopnear.pdb
+C:\Users\msi-pc\source\repos\Shopnear\Shopnear\Shopnear\Shopnear\obj\Debug\netstandard2.0\Shopnear.csprojAssemblyReference.cache
+C:\Users\msi-pc\source\repos\Shopnear\Shopnear\Shopnear\Shopnear\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\msi-pc\source\repos\Shopnear\Shopnear\Shopnear\Shopnear\obj\Debug\netstandard2.0\Views\AddAgentShop.xaml.g.cs
+C:\Users\msi-pc\source\repos\Shopnear\Shopnear\Shopnear\Shopnear\obj\Debug\netstandard2.0\Views\AddNameShop.xaml.g.cs
+C:\Users\msi-pc\source\repos\Shopnear\Shopnear\Shopnear\Shopnear\obj\Debug\netstandard2.0\Views\AddPayShop.xaml.g.cs
+C:\Users\msi-pc\source\repos\Shopnear\Shopnear\Shopnear\Shopnear\obj\Debug\netstandard2.0\Views\AddProduct.xaml.g.cs
+C:\Users\msi-pc\source\repos\Shopnear\Shopnear\Shopnear\Shopnear\obj\Debug\netstandard2.0\Views\AddShop.xaml.g.cs
+C:\Users\msi-pc\source\repos\Shopnear\Shopnear\Shopnear\Shopnear\obj\Debug\netstandard2.0\Views\AgentCard.xaml.g.cs
+C:\Users\msi-pc\source\repos\Shopnear\Shopnear\Shopnear\Shopnear\obj\Debug\netstandard2.0\Views\FollowBrand.xaml.g.cs
+C:\Users\msi-pc\source\repos\Shopnear\Shopnear\Shopnear\Shopnear\obj\Debug\netstandard2.0\Views\LoadingPop.xaml.g.cs
+C:\Users\msi-pc\source\repos\Shopnear\Shopnear\Shopnear\Shopnear\obj\Debug\netstandard2.0\Views\loginPage.xaml.g.cs
+C:\Users\msi-pc\source\repos\Shopnear\Shopnear\Shopnear\Shopnear\obj\Debug\netstandard2.0\Views\MapPage.xaml.g.cs
+C:\Users\msi-pc\source\repos\Shopnear\Shopnear\Shopnear\Shopnear\obj\Debug\netstandard2.0\Views\NewUserPopupPag.xaml.g.cs
+C:\Users\msi-pc\source\repos\Shopnear\Shopnear\Shopnear\Shopnear\obj\Debug\netstandard2.0\Views\ProductDetail.xaml.g.cs
+C:\Users\msi-pc\source\repos\Shopnear\Shopnear\Shopnear\Shopnear\obj\Debug\netstandard2.0\Views\ProductPage.xaml.g.cs
+C:\Users\msi-pc\source\repos\Shopnear\Shopnear\Shopnear\Shopnear\obj\Debug\netstandard2.0\Views\ProfileInfoPage.xaml.g.cs
+C:\Users\msi-pc\source\repos\Shopnear\Shopnear\Shopnear\Shopnear\obj\Debug\netstandard2.0\Views\ProfilePage.xaml.g.cs
+C:\Users\msi-pc\source\repos\Shopnear\Shopnear\Shopnear\Shopnear\obj\Debug\netstandard2.0\Views\ReviewPop.xaml.g.cs
+C:\Users\msi-pc\source\repos\Shopnear\Shopnear\Shopnear\Shopnear\obj\Debug\netstandard2.0\Views\Shop.xaml.g.cs
+C:\Users\msi-pc\source\repos\Shopnear\Shopnear\Shopnear\Shopnear\obj\Debug\netstandard2.0\Shopnear.AssemblyInfoInputs.cache
+C:\Users\msi-pc\source\repos\Shopnear\Shopnear\Shopnear\Shopnear\obj\Debug\netstandard2.0\Shopnear.AssemblyInfo.cs
+C:\Users\msi-pc\source\repos\Shopnear\Shopnear\Shopnear\Shopnear\obj\Debug\netstandard2.0\Shopnear.csproj.CoreCompileInputs.cache
+C:\Users\msi-pc\source\repos\Shopnear\Shopnear\Shopnear\Shopnear\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\msi-pc\source\repos\Shopnear\Shopnear\Shopnear\Shopnear\obj\Debug\netstandard2.0\Shopnear.dll
+C:\Users\msi-pc\source\repos\Shopnear\Shopnear\Shopnear\Shopnear\obj\Debug\netstandard2.0\ref\Shopnear.dll
+C:\Users\msi-pc\source\repos\Shopnear\Shopnear\Shopnear\Shopnear\obj\Debug\netstandard2.0\Shopnear.pdb
+C:\Users\msi-pc\source\repos\Shopnear\Shopnear\Shopnear\Shopnear\obj\Debug\netstandard2.0\Views\Cart.xaml.g.cs
+C:\Users\msi-pc\source\repos\Shopnear\Shopnear\Shopnear\Shopnear\obj\Debug\netstandard2.0\Views\SearchPop.xaml.g.cs
+C:\Users\Nitro-5\Desktop\ProjectShopnear\SN3\Shopnear\Shopnear\Shopnear\bin\Debug\netstandard2.0\Shopnear.deps.json
+C:\Users\Nitro-5\Desktop\ProjectShopnear\SN3\Shopnear\Shopnear\Shopnear\bin\Debug\netstandard2.0\Shopnear.dll
+C:\Users\Nitro-5\Desktop\ProjectShopnear\SN3\Shopnear\Shopnear\Shopnear\bin\Debug\netstandard2.0\ref\Shopnear.dll
+C:\Users\Nitro-5\Desktop\ProjectShopnear\SN3\Shopnear\Shopnear\Shopnear\bin\Debug\netstandard2.0\Shopnear.pdb
+C:\Users\Nitro-5\Desktop\ProjectShopnear\SN3\Shopnear\Shopnear\Shopnear\obj\Debug\netstandard2.0\Shopnear.csprojAssemblyReference.cache
+C:\Users\Nitro-5\Desktop\ProjectShopnear\SN3\Shopnear\Shopnear\Shopnear\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Nitro-5\Desktop\ProjectShopnear\SN3\Shopnear\Shopnear\Shopnear\obj\Debug\netstandard2.0\Views\AddAgentShop.xaml.g.cs
+C:\Users\Nitro-5\Desktop\ProjectShopnear\SN3\Shopnear\Shopnear\Shopnear\obj\Debug\netstandard2.0\Views\AddNameShop.xaml.g.cs
+C:\Users\Nitro-5\Desktop\ProjectShopnear\SN3\Shopnear\Shopnear\Shopnear\obj\Debug\netstandard2.0\Views\AddPayShop.xaml.g.cs
+C:\Users\Nitro-5\Desktop\ProjectShopnear\SN3\Shopnear\Shopnear\Shopnear\obj\Debug\netstandard2.0\Views\AddProduct.xaml.g.cs
+C:\Users\Nitro-5\Desktop\ProjectShopnear\SN3\Shopnear\Shopnear\Shopnear\obj\Debug\netstandard2.0\Views\AddShop.xaml.g.cs
+C:\Users\Nitro-5\Desktop\ProjectShopnear\SN3\Shopnear\Shopnear\Shopnear\obj\Debug\netstandard2.0\Views\AgentCard.xaml.g.cs
+C:\Users\Nitro-5\Desktop\ProjectShopnear\SN3\Shopnear\Shopnear\Shopnear\obj\Debug\netstandard2.0\Views\Cart.xaml.g.cs
+C:\Users\Nitro-5\Desktop\ProjectShopnear\SN3\Shopnear\Shopnear\Shopnear\obj\Debug\netstandard2.0\Views\FollowBrand.xaml.g.cs
+C:\Users\Nitro-5\Desktop\ProjectShopnear\SN3\Shopnear\Shopnear\Shopnear\obj\Debug\netstandard2.0\Views\LoadingPop.xaml.g.cs
+C:\Users\Nitro-5\Desktop\ProjectShopnear\SN3\Shopnear\Shopnear\Shopnear\obj\Debug\netstandard2.0\Views\loginPage.xaml.g.cs
+C:\Users\Nitro-5\Desktop\ProjectShopnear\SN3\Shopnear\Shopnear\Shopnear\obj\Debug\netstandard2.0\Views\MapPage.xaml.g.cs
+C:\Users\Nitro-5\Desktop\ProjectShopnear\SN3\Shopnear\Shopnear\Shopnear\obj\Debug\netstandard2.0\Views\ProductDetail.xaml.g.cs
+C:\Users\Nitro-5\Desktop\ProjectShopnear\SN3\Shopnear\Shopnear\Shopnear\obj\Debug\netstandard2.0\Views\ProductPage.xaml.g.cs
+C:\Users\Nitro-5\Desktop\ProjectShopnear\SN3\Shopnear\Shopnear\Shopnear\obj\Debug\netstandard2.0\Views\ProfileInfoPage.xaml.g.cs
+C:\Users\Nitro-5\Desktop\ProjectShopnear\SN3\Shopnear\Shopnear\Shopnear\obj\Debug\netstandard2.0\Views\ProfilePage.xaml.g.cs
+C:\Users\Nitro-5\Desktop\ProjectShopnear\SN3\Shopnear\Shopnear\Shopnear\obj\Debug\netstandard2.0\Views\ReviewPop.xaml.g.cs
+C:\Users\Nitro-5\Desktop\ProjectShopnear\SN3\Shopnear\Shopnear\Shopnear\obj\Debug\netstandard2.0\Views\SearchPop.xaml.g.cs
+C:\Users\Nitro-5\Desktop\ProjectShopnear\SN3\Shopnear\Shopnear\Shopnear\obj\Debug\netstandard2.0\Shopnear.AssemblyInfoInputs.cache
+C:\Users\Nitro-5\Desktop\ProjectShopnear\SN3\Shopnear\Shopnear\Shopnear\obj\Debug\netstandard2.0\Shopnear.AssemblyInfo.cs
+C:\Users\Nitro-5\Desktop\ProjectShopnear\SN3\Shopnear\Shopnear\Shopnear\obj\Debug\netstandard2.0\Shopnear.csproj.CoreCompileInputs.cache
+C:\Users\Nitro-5\Desktop\ProjectShopnear\SN3\Shopnear\Shopnear\Shopnear\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Nitro-5\Desktop\ProjectShopnear\SN3\Shopnear\Shopnear\Shopnear\obj\Debug\netstandard2.0\Shopnear.dll
+C:\Users\Nitro-5\Desktop\ProjectShopnear\SN3\Shopnear\Shopnear\Shopnear\obj\Debug\netstandard2.0\ref\Shopnear.dll
+C:\Users\Nitro-5\Desktop\ProjectShopnear\SN3\Shopnear\Shopnear\Shopnear\obj\Debug\netstandard2.0\Shopnear.pdb
+C:\Users\msi-pc\Desktop\Shopnear\Shopnear\Shopnear\Shopnear\obj\Debug\netstandard2.0\Views\Cart.xaml.g.cs
+C:\Users\msi-pc\Desktop\Shopnear\Shopnear\Shopnear\Shopnear\obj\Debug\netstandard2.0\Views\SearchPop.xaml.g.cs
+C:\Users\msi-pc\Desktop\Shopnear\Shopnear\Shopnear\Shopnear\obj\Debug\netstandard2.0\Shopnear.csproj.CoreCompileInputs.cache
+C:\Users\msi-pc\Desktop\Shopnear\Shopnear\Shopnear\Shopnear\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\msi-pc\Desktop\Shopnear\Shopnear\Shopnear\Shopnear\obj\Debug\netstandard2.0\Views\MapPinAdd.xaml.g.cs
+C:\Users\msi-pc\Desktop\Shopnear\Shopnear\Shopnear\Shopnear\obj\Debug\netstandard2.0\Views\Notification.xaml.g.cs
+C:\Users\msi-pc\Desktop\Shopnear\Shopnear\Shopnear\Shopnear\obj\Debug\netstandard2.0\Views\Payment.xaml.g.cs
+C:\Users\msi-pc\Desktop\Shopnear\Shopnear\Shopnear\Shopnear\obj\Debug\netstandard2.0\Views\ShopPage.xaml.g.cs
+C:\Users\Nitro-5\Desktop\ProjectShopnear\SN1\Shopnear\Shopnear\Shopnear\obj\Debug\netstandard2.0\Views\Cart.xaml.g.cs
+C:\Users\Nitro-5\Desktop\ProjectShopnear\SN1\Shopnear\Shopnear\Shopnear\obj\Debug\netstandard2.0\Views\MapPage.xaml.g.cs
+C:\Users\Nitro-5\Desktop\ProjectShopnear\SN1\Shopnear\Shopnear\Shopnear\obj\Debug\netstandard2.0\Views\MapPinAdd.xaml.g.cs
+C:\Users\Nitro-5\Desktop\ProjectShopnear\SN1\Shopnear\Shopnear\Shopnear\obj\Debug\netstandard2.0\Views\Notification.xaml.g.cs
+C:\Users\Nitro-5\Desktop\ProjectShopnear\SN1\Shopnear\Shopnear\Shopnear\obj\Debug\netstandard2.0\Views\Payment.xaml.g.cs
+C:\Users\Nitro-5\Desktop\ProjectShopnear\SN1\Shopnear\Shopnear\Shopnear\obj\Debug\netstandard2.0\Views\SearchPop.xaml.g.cs
+C:\Users\Nitro-5\Desktop\ProjectShopnear\SN1\Shopnear\Shopnear\Shopnear\obj\Debug\netstandard2.0\Views\ShopPage.xaml.g.cs
+C:\Users\Nitro-5\Desktop\ProjectShopnear\SN1\Shopnear\Shopnear\Shopnear\obj\Debug\netstandard2.0\Views\AdminPage.xaml.g.cs
+C:\Users\msi-pc\Desktop\Shopnear\Shopnear\Shopnear\Shopnear\obj\Debug\netstandard2.0\Views\AdminPage.xaml.g.cs
+C:\Users\msi-pc\Desktop\project\Shopnear\Shopnear\Shopnear\Shopnear\bin\Debug\netstandard2.0\Shopnear.deps.json
+C:\Users\msi-pc\Desktop\project\Shopnear\Shopnear\Shopnear\Shopnear\bin\Debug\netstandard2.0\Shopnear.dll
+C:\Users\msi-pc\Desktop\project\Shopnear\Shopnear\Shopnear\Shopnear\bin\Debug\netstandard2.0\ref\Shopnear.dll
+C:\Users\msi-pc\Desktop\project\Shopnear\Shopnear\Shopnear\Shopnear\bin\Debug\netstandard2.0\Shopnear.pdb
+C:\Users\msi-pc\Desktop\project\Shopnear\Shopnear\Shopnear\Shopnear\obj\Debug\netstandard2.0\Shopnear.csprojAssemblyReference.cache
+C:\Users\msi-pc\Desktop\project\Shopnear\Shopnear\Shopnear\Shopnear\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\msi-pc\Desktop\project\Shopnear\Shopnear\Shopnear\Shopnear\obj\Debug\netstandard2.0\Views\AddAgentShop.xaml.g.cs
+C:\Users\msi-pc\Desktop\project\Shopnear\Shopnear\Shopnear\Shopnear\obj\Debug\netstandard2.0\Views\AddNameShop.xaml.g.cs
+C:\Users\msi-pc\Desktop\project\Shopnear\Shopnear\Shopnear\Shopnear\obj\Debug\netstandard2.0\Views\AddPayShop.xaml.g.cs
+C:\Users\msi-pc\Desktop\project\Shopnear\Shopnear\Shopnear\Shopnear\obj\Debug\netstandard2.0\Views\AddProduct.xaml.g.cs
+C:\Users\msi-pc\Desktop\project\Shopnear\Shopnear\Shopnear\Shopnear\obj\Debug\netstandard2.0\Views\AddShop.xaml.g.cs
+C:\Users\msi-pc\Desktop\project\Shopnear\Shopnear\Shopnear\Shopnear\obj\Debug\netstandard2.0\Views\AdminPage.xaml.g.cs
+C:\Users\msi-pc\Desktop\project\Shopnear\Shopnear\Shopnear\Shopnear\obj\Debug\netstandard2.0\Views\AgentCard.xaml.g.cs
+C:\Users\msi-pc\Desktop\project\Shopnear\Shopnear\Shopnear\Shopnear\obj\Debug\netstandard2.0\Views\Cart.xaml.g.cs
+C:\Users\msi-pc\Desktop\project\Shopnear\Shopnear\Shopnear\Shopnear\obj\Debug\netstandard2.0\Views\FollowBrand.xaml.g.cs
+C:\Users\msi-pc\Desktop\project\Shopnear\Shopnear\Shopnear\Shopnear\obj\Debug\netstandard2.0\Views\LoadingPop.xaml.g.cs
+C:\Users\msi-pc\Desktop\project\Shopnear\Shopnear\Shopnear\Shopnear\obj\Debug\netstandard2.0\Views\loginPage.xaml.g.cs
+C:\Users\msi-pc\Desktop\project\Shopnear\Shopnear\Shopnear\Shopnear\obj\Debug\netstandard2.0\Views\MapPage.xaml.g.cs
+C:\Users\msi-pc\Desktop\project\Shopnear\Shopnear\Shopnear\Shopnear\obj\Debug\netstandard2.0\Views\MapPinAdd.xaml.g.cs
+C:\Users\msi-pc\Desktop\project\Shopnear\Shopnear\Shopnear\Shopnear\obj\Debug\netstandard2.0\Views\Notification.xaml.g.cs
+C:\Users\msi-pc\Desktop\project\Shopnear\Shopnear\Shopnear\Shopnear\obj\Debug\netstandard2.0\Views\Payment.xaml.g.cs
+C:\Users\msi-pc\Desktop\project\Shopnear\Shopnear\Shopnear\Shopnear\obj\Debug\netstandard2.0\Views\ProductDetail.xaml.g.cs
+C:\Users\msi-pc\Desktop\project\Shopnear\Shopnear\Shopnear\Shopnear\obj\Debug\netstandard2.0\Views\ProductPage.xaml.g.cs
+C:\Users\msi-pc\Desktop\project\Shopnear\Shopnear\Shopnear\Shopnear\obj\Debug\netstandard2.0\Views\ProfileInfoPage.xaml.g.cs
+C:\Users\msi-pc\Desktop\project\Shopnear\Shopnear\Shopnear\Shopnear\obj\Debug\netstandard2.0\Views\ProfilePage.xaml.g.cs
+C:\Users\msi-pc\Desktop\project\Shopnear\Shopnear\Shopnear\Shopnear\obj\Debug\netstandard2.0\Views\Register.xaml.g.cs
+C:\Users\msi-pc\Desktop\project\Shopnear\Shopnear\Shopnear\Shopnear\obj\Debug\netstandard2.0\Views\ReviewPop.xaml.g.cs
+C:\Users\msi-pc\Desktop\project\Shopnear\Shopnear\Shopnear\Shopnear\obj\Debug\netstandard2.0\Views\SearchPop.xaml.g.cs
+C:\Users\msi-pc\Desktop\project\Shopnear\Shopnear\Shopnear\Shopnear\obj\Debug\netstandard2.0\Views\ShopPage.xaml.g.cs
+C:\Users\msi-pc\Desktop\project\Shopnear\Shopnear\Shopnear\Shopnear\obj\Debug\netstandard2.0\Shopnear.AssemblyInfoInputs.cache
+C:\Users\msi-pc\Desktop\project\Shopnear\Shopnear\Shopnear\Shopnear\obj\Debug\netstandard2.0\Shopnear.AssemblyInfo.cs
+C:\Users\msi-pc\Desktop\project\Shopnear\Shopnear\Shopnear\Shopnear\obj\Debug\netstandard2.0\Shopnear.csproj.CoreCompileInputs.cache
+C:\Users\msi-pc\Desktop\project\Shopnear\Shopnear\Shopnear\Shopnear\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\msi-pc\Desktop\project\Shopnear\Shopnear\Shopnear\Shopnear\obj\Debug\netstandard2.0\Shopnear.dll
+C:\Users\msi-pc\Desktop\project\Shopnear\Shopnear\Shopnear\Shopnear\obj\Debug\netstandard2.0\ref\Shopnear.dll
+C:\Users\msi-pc\Desktop\project\Shopnear\Shopnear\Shopnear\Shopnear\obj\Debug\netstandard2.0\Shopnear.pdb
+C:\Users\Nitro-5\Desktop\ProjectShopnear\SN2\Shopnear\Shopnear\Shopnear\Shopnear\bin\Debug\netstandard2.0\Shopnear.deps.json
+C:\Users\Nitro-5\Desktop\ProjectShopnear\SN2\Shopnear\Shopnear\Shopnear\Shopnear\bin\Debug\netstandard2.0\Shopnear.dll
+C:\Users\Nitro-5\Desktop\ProjectShopnear\SN2\Shopnear\Shopnear\Shopnear\Shopnear\bin\Debug\netstandard2.0\ref\Shopnear.dll
+C:\Users\Nitro-5\Desktop\ProjectShopnear\SN2\Shopnear\Shopnear\Shopnear\Shopnear\bin\Debug\netstandard2.0\Shopnear.pdb
+C:\Users\Nitro-5\Desktop\ProjectShopnear\SN2\Shopnear\Shopnear\Shopnear\Shopnear\obj\Debug\netstandard2.0\Shopnear.csprojAssemblyReference.cache
+C:\Users\Nitro-5\Desktop\ProjectShopnear\SN2\Shopnear\Shopnear\Shopnear\Shopnear\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Nitro-5\Desktop\ProjectShopnear\SN2\Shopnear\Shopnear\Shopnear\Shopnear\obj\Debug\netstandard2.0\Views\AddAgentShop.xaml.g.cs
+C:\Users\Nitro-5\Desktop\ProjectShopnear\SN2\Shopnear\Shopnear\Shopnear\Shopnear\obj\Debug\netstandard2.0\Views\AddNameShop.xaml.g.cs
+C:\Users\Nitro-5\Desktop\ProjectShopnear\SN2\Shopnear\Shopnear\Shopnear\Shopnear\obj\Debug\netstandard2.0\Views\AddPayShop.xaml.g.cs
+C:\Users\Nitro-5\Desktop\ProjectShopnear\SN2\Shopnear\Shopnear\Shopnear\Shopnear\obj\Debug\netstandard2.0\Views\AddProduct.xaml.g.cs
+C:\Users\Nitro-5\Desktop\ProjectShopnear\SN2\Shopnear\Shopnear\Shopnear\Shopnear\obj\Debug\netstandard2.0\Views\AddShop.xaml.g.cs
+C:\Users\Nitro-5\Desktop\ProjectShopnear\SN2\Shopnear\Shopnear\Shopnear\Shopnear\obj\Debug\netstandard2.0\Views\AdminPage.xaml.g.cs
+C:\Users\Nitro-5\Desktop\ProjectShopnear\SN2\Shopnear\Shopnear\Shopnear\Shopnear\obj\Debug\netstandard2.0\Views\AgentCard.xaml.g.cs
+C:\Users\Nitro-5\Desktop\ProjectShopnear\SN2\Shopnear\Shopnear\Shopnear\Shopnear\obj\Debug\netstandard2.0\Views\Cart.xaml.g.cs
+C:\Users\Nitro-5\Desktop\ProjectShopnear\SN2\Shopnear\Shopnear\Shopnear\Shopnear\obj\Debug\netstandard2.0\Views\FollowBrand.xaml.g.cs
+C:\Users\Nitro-5\Desktop\ProjectShopnear\SN2\Shopnear\Shopnear\Shopnear\Shopnear\obj\Debug\netstandard2.0\Views\LoadingPop.xaml.g.cs
+C:\Users\Nitro-5\Desktop\ProjectShopnear\SN2\Shopnear\Shopnear\Shopnear\Shopnear\obj\Debug\netstandard2.0\Views\loginPage.xaml.g.cs
+C:\Users\Nitro-5\Desktop\ProjectShopnear\SN2\Shopnear\Shopnear\Shopnear\Shopnear\obj\Debug\netstandard2.0\Views\MapPage.xaml.g.cs
+C:\Users\Nitro-5\Desktop\ProjectShopnear\SN2\Shopnear\Shopnear\Shopnear\Shopnear\obj\Debug\netstandard2.0\Views\MapPinAdd.xaml.g.cs
+C:\Users\Nitro-5\Desktop\ProjectShopnear\SN2\Shopnear\Shopnear\Shopnear\Shopnear\obj\Debug\netstandard2.0\Views\Notification.xaml.g.cs
+C:\Users\Nitro-5\Desktop\ProjectShopnear\SN2\Shopnear\Shopnear\Shopnear\Shopnear\obj\Debug\netstandard2.0\Views\Payment.xaml.g.cs
+C:\Users\Nitro-5\Desktop\ProjectShopnear\SN2\Shopnear\Shopnear\Shopnear\Shopnear\obj\Debug\netstandard2.0\Views\ProductDetail.xaml.g.cs
+C:\Users\Nitro-5\Desktop\ProjectShopnear\SN2\Shopnear\Shopnear\Shopnear\Shopnear\obj\Debug\netstandard2.0\Views\ProductPage.xaml.g.cs
+C:\Users\Nitro-5\Desktop\ProjectShopnear\SN2\Shopnear\Shopnear\Shopnear\Shopnear\obj\Debug\netstandard2.0\Views\ProfileInfoPage.xaml.g.cs
+C:\Users\Nitro-5\Desktop\ProjectShopnear\SN2\Shopnear\Shopnear\Shopnear\Shopnear\obj\Debug\netstandard2.0\Views\ProfilePage.xaml.g.cs
+C:\Users\Nitro-5\Desktop\ProjectShopnear\SN2\Shopnear\Shopnear\Shopnear\Shopnear\obj\Debug\netstandard2.0\Views\Register.xaml.g.cs
+C:\Users\Nitro-5\Desktop\ProjectShopnear\SN2\Shopnear\Shopnear\Shopnear\Shopnear\obj\Debug\netstandard2.0\Views\ReviewPop.xaml.g.cs
+C:\Users\Nitro-5\Desktop\ProjectShopnear\SN2\Shopnear\Shopnear\Shopnear\Shopnear\obj\Debug\netstandard2.0\Views\SearchPop.xaml.g.cs
+C:\Users\Nitro-5\Desktop\ProjectShopnear\SN2\Shopnear\Shopnear\Shopnear\Shopnear\obj\Debug\netstandard2.0\Views\ShopPage.xaml.g.cs
+C:\Users\Nitro-5\Desktop\ProjectShopnear\SN2\Shopnear\Shopnear\Shopnear\Shopnear\obj\Debug\netstandard2.0\Shopnear.AssemblyInfoInputs.cache
+C:\Users\Nitro-5\Desktop\ProjectShopnear\SN2\Shopnear\Shopnear\Shopnear\Shopnear\obj\Debug\netstandard2.0\Shopnear.AssemblyInfo.cs
+C:\Users\Nitro-5\Desktop\ProjectShopnear\SN2\Shopnear\Shopnear\Shopnear\Shopnear\obj\Debug\netstandard2.0\Shopnear.csproj.CoreCompileInputs.cache
+C:\Users\Nitro-5\Desktop\ProjectShopnear\SN2\Shopnear\Shopnear\Shopnear\Shopnear\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Nitro-5\Desktop\ProjectShopnear\SN2\Shopnear\Shopnear\Shopnear\Shopnear\obj\Debug\netstandard2.0\Shopnear.dll
+C:\Users\Nitro-5\Desktop\ProjectShopnear\SN2\Shopnear\Shopnear\Shopnear\Shopnear\obj\Debug\netstandard2.0\ref\Shopnear.dll
+C:\Users\Nitro-5\Desktop\ProjectShopnear\SN2\Shopnear\Shopnear\Shopnear\Shopnear\obj\Debug\netstandard2.0\Shopnear.pdb
+C:\Users\Nitro-5\Desktop\ProjectShopnear\SN2\Shopnear\Shopnear\Shopnear\Shopnear\obj\Debug\netstandard2.0\Views\CkShopPop.xaml.g.cs
+C:\Users\Nitro-5\Desktop\ProjectShopnear\SN2\Shopnear\Shopnear\Shopnear\Shopnear\obj\Debug\netstandard2.0\Views\CkUserPop.xaml.g.cs
+C:\Users\msi-pc\Desktop\Shopnear\Shopnear\Shopnear\Shopnear\obj\Debug\netstandard2.0\Views\CkShopPop.xaml.g.cs
+C:\Users\msi-pc\Desktop\Shopnear\Shopnear\Shopnear\Shopnear\obj\Debug\netstandard2.0\Views\CkUserPop.xaml.g.cs
+C:\Users\msi-pc\Desktop\Shopnear\Shopnear\Shopnear\Shopnear\obj\Debug\netstandard2.0\Views\Register.xaml.g.cs
+C:\Users\Nitro-5\Desktop\ProjectShopnear\SN3\Shopnear\Shopnear\Shopnear\obj\Debug\netstandard2.0\Views\AdminPage.xaml.g.cs
+C:\Users\Nitro-5\Desktop\ProjectShopnear\SN3\Shopnear\Shopnear\Shopnear\obj\Debug\netstandard2.0\Views\CkShopPop.xaml.g.cs
+C:\Users\Nitro-5\Desktop\ProjectShopnear\SN3\Shopnear\Shopnear\Shopnear\obj\Debug\netstandard2.0\Views\CkUserPop.xaml.g.cs
+C:\Users\Nitro-5\Desktop\ProjectShopnear\SN3\Shopnear\Shopnear\Shopnear\obj\Debug\netstandard2.0\Views\MapPinAdd.xaml.g.cs
+C:\Users\Nitro-5\Desktop\ProjectShopnear\SN3\Shopnear\Shopnear\Shopnear\obj\Debug\netstandard2.0\Views\Notification.xaml.g.cs
+C:\Users\Nitro-5\Desktop\ProjectShopnear\SN3\Shopnear\Shopnear\Shopnear\obj\Debug\netstandard2.0\Views\Payment.xaml.g.cs
+C:\Users\Nitro-5\Desktop\ProjectShopnear\SN3\Shopnear\Shopnear\Shopnear\obj\Debug\netstandard2.0\Views\Register.xaml.g.cs
+C:\Users\Nitro-5\Desktop\ProjectShopnear\SN3\Shopnear\Shopnear\Shopnear\obj\Debug\netstandard2.0\Views\ShopPage.xaml.g.cs
+C:\Users\Nitro-5\Desktop\ProjectShopnear\SN3\Shopnear\Shopnear\Shopnear\obj\Debug\netstandard2.0\Views\CkShop.xaml.g.cs
+C:\Users\Nitro-5\Desktop\ProjectShopnear\SN3\Shopnear\Shopnear\Shopnear\obj\Debug\netstandard2.0\Views\CkUser.xaml.g.cs
+C:\Users\msi-pc\Desktop\Shopnear\Shopnear\Shopnear\Shopnear\obj\Debug\netstandard2.0\Views\CkShop.xaml.g.cs
+C:\Users\msi-pc\Desktop\Shopnear\Shopnear\Shopnear\Shopnear\obj\Debug\netstandard2.0\Views\CkUser.xaml.g.cs
+C:\Users\Nitro-5\Desktop\ProjectShopnear\SN1\Shopnear\Shopnear\Shopnear\obj\Debug\netstandard2.0\Views\CkShop.xaml.g.cs
+C:\Users\Nitro-5\Desktop\ProjectShopnear\SN1\Shopnear\Shopnear\Shopnear\obj\Debug\netstandard2.0\Views\CkShopPop.xaml.g.cs
+C:\Users\Nitro-5\Desktop\ProjectShopnear\SN1\Shopnear\Shopnear\Shopnear\obj\Debug\netstandard2.0\Views\CkUser.xaml.g.cs
+C:\Users\Nitro-5\Desktop\ProjectShopnear\SN1\Shopnear\Shopnear\Shopnear\obj\Debug\netstandard2.0\Views\CkUserPop.xaml.g.cs
+C:\Users\Nitro-5\Desktop\ProjectShopnear\SN1\Shopnear\Shopnear\Shopnear\obj\Debug\netstandard2.0\Views\Register.xaml.g.cs
+C:\Users\msi-pc\Desktop\Project\Shopnear\Shopnear\Shopnear\Shopnear\obj\Debug\netstandard2.0\Views\CkShop.xaml.g.cs
+C:\Users\msi-pc\Desktop\Project\Shopnear\Shopnear\Shopnear\Shopnear\obj\Debug\netstandard2.0\Views\CkShopPop.xaml.g.cs
+C:\Users\msi-pc\Desktop\Project\Shopnear\Shopnear\Shopnear\Shopnear\obj\Debug\netstandard2.0\Views\CkUser.xaml.g.cs
+C:\Users\msi-pc\Desktop\Project\Shopnear\Shopnear\Shopnear\Shopnear\obj\Debug\netstandard2.0\Views\CkUserPop.xaml.g.cs
+C:\Users\msi-pc\Desktop\Project\Shopnear\Shopnear\Shopnear\Shopnear\obj\Debug\netstandard2.0\Views\ShopProductDetail.xaml.g.cs
+C:\Users\msi-pc\Desktop\Project\Shopnear\Shopnear\Shopnear\Shopnear\obj\Debug\netstandard2.0\Views\history.xaml.g.cs
+C:\Users\msi-pc\Desktop\Project\Shopnear\Shopnear\Shopnear\Shopnear\obj\Debug\netstandard2.0\Views\HistoryDetail.xaml.g.cs
+C:\Users\msi-pc\Desktop\Project\Shopnear\Shopnear\Shopnear\Shopnear\obj\Debug\netstandard2.0\Views\NotificationDetail.xaml.g.cs
+C:\Users\Nitro-5\Desktop\ProjectShopnear\SN3\Shopnear\Shopnear\Shopnear\obj\Debug\netstandard2.0\Views\History.xaml.g.cs
+C:\Users\Nitro-5\Desktop\ProjectShopnear\SN3\Shopnear\Shopnear\Shopnear\obj\Debug\netstandard2.0\Views\HistoryDetail.xaml.g.cs
+C:\Users\Nitro-5\Desktop\ProjectShopnear\SN3\Shopnear\Shopnear\Shopnear\obj\Debug\netstandard2.0\Views\NotificationDetail.xaml.g.cs
+C:\Users\Nitro-5\Desktop\ProjectShopnear\SN3\Shopnear\Shopnear\Shopnear\obj\Debug\netstandard2.0\Views\ShopProductDetail.xaml.g.cs
+C:\Users\msi-pc\Desktop\Project\Last\Shopnear\Shopnear\Shopnear\Shopnear\bin\Debug\netstandard2.0\Shopnear.deps.json
+C:\Users\msi-pc\Desktop\Project\Last\Shopnear\Shopnear\Shopnear\Shopnear\bin\Debug\netstandard2.0\Shopnear.dll
+C:\Users\msi-pc\Desktop\Project\Last\Shopnear\Shopnear\Shopnear\Shopnear\bin\Debug\netstandard2.0\ref\Shopnear.dll
+C:\Users\msi-pc\Desktop\Project\Last\Shopnear\Shopnear\Shopnear\Shopnear\bin\Debug\netstandard2.0\Shopnear.pdb
+C:\Users\msi-pc\Desktop\Project\Last\Shopnear\Shopnear\Shopnear\Shopnear\obj\Debug\netstandard2.0\Shopnear.csprojAssemblyReference.cache
+C:\Users\msi-pc\Desktop\Project\Last\Shopnear\Shopnear\Shopnear\Shopnear\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\msi-pc\Desktop\Project\Last\Shopnear\Shopnear\Shopnear\Shopnear\obj\Debug\netstandard2.0\Views\AddAgentShop.xaml.g.cs
+C:\Users\msi-pc\Desktop\Project\Last\Shopnear\Shopnear\Shopnear\Shopnear\obj\Debug\netstandard2.0\Views\AddNameShop.xaml.g.cs
+C:\Users\msi-pc\Desktop\Project\Last\Shopnear\Shopnear\Shopnear\Shopnear\obj\Debug\netstandard2.0\Views\AddPayShop.xaml.g.cs
+C:\Users\msi-pc\Desktop\Project\Last\Shopnear\Shopnear\Shopnear\Shopnear\obj\Debug\netstandard2.0\Views\AddProduct.xaml.g.cs
+C:\Users\msi-pc\Desktop\Project\Last\Shopnear\Shopnear\Shopnear\Shopnear\obj\Debug\netstandard2.0\Views\AddShop.xaml.g.cs
+C:\Users\msi-pc\Desktop\Project\Last\Shopnear\Shopnear\Shopnear\Shopnear\obj\Debug\netstandard2.0\Views\AdminPage.xaml.g.cs
+C:\Users\msi-pc\Desktop\Project\Last\Shopnear\Shopnear\Shopnear\Shopnear\obj\Debug\netstandard2.0\Views\AgentCard.xaml.g.cs
+C:\Users\msi-pc\Desktop\Project\Last\Shopnear\Shopnear\Shopnear\Shopnear\obj\Debug\netstandard2.0\Views\Cart.xaml.g.cs
+C:\Users\msi-pc\Desktop\Project\Last\Shopnear\Shopnear\Shopnear\Shopnear\obj\Debug\netstandard2.0\Views\CkShop.xaml.g.cs
+C:\Users\msi-pc\Desktop\Project\Last\Shopnear\Shopnear\Shopnear\Shopnear\obj\Debug\netstandard2.0\Views\CkShopPop.xaml.g.cs
+C:\Users\msi-pc\Desktop\Project\Last\Shopnear\Shopnear\Shopnear\Shopnear\obj\Debug\netstandard2.0\Views\CkUser.xaml.g.cs
+C:\Users\msi-pc\Desktop\Project\Last\Shopnear\Shopnear\Shopnear\Shopnear\obj\Debug\netstandard2.0\Views\CkUserPop.xaml.g.cs
+C:\Users\msi-pc\Desktop\Project\Last\Shopnear\Shopnear\Shopnear\Shopnear\obj\Debug\netstandard2.0\Views\FollowBrand.xaml.g.cs
+C:\Users\msi-pc\Desktop\Project\Last\Shopnear\Shopnear\Shopnear\Shopnear\obj\Debug\netstandard2.0\Views\History.xaml.g.cs
+C:\Users\msi-pc\Desktop\Project\Last\Shopnear\Shopnear\Shopnear\Shopnear\obj\Debug\netstandard2.0\Views\HistoryDetail.xaml.g.cs
+C:\Users\msi-pc\Desktop\Project\Last\Shopnear\Shopnear\Shopnear\Shopnear\obj\Debug\netstandard2.0\Views\LoadingPop.xaml.g.cs
+C:\Users\msi-pc\Desktop\Project\Last\Shopnear\Shopnear\Shopnear\Shopnear\obj\Debug\netstandard2.0\Views\loginPage.xaml.g.cs
+C:\Users\msi-pc\Desktop\Project\Last\Shopnear\Shopnear\Shopnear\Shopnear\obj\Debug\netstandard2.0\Views\MapPage.xaml.g.cs
+C:\Users\msi-pc\Desktop\Project\Last\Shopnear\Shopnear\Shopnear\Shopnear\obj\Debug\netstandard2.0\Views\MapPinAdd.xaml.g.cs
+C:\Users\msi-pc\Desktop\Project\Last\Shopnear\Shopnear\Shopnear\Shopnear\obj\Debug\netstandard2.0\Views\Notification.xaml.g.cs
+C:\Users\msi-pc\Desktop\Project\Last\Shopnear\Shopnear\Shopnear\Shopnear\obj\Debug\netstandard2.0\Views\NotificationDetail.xaml.g.cs
+C:\Users\msi-pc\Desktop\Project\Last\Shopnear\Shopnear\Shopnear\Shopnear\obj\Debug\netstandard2.0\Views\Payment.xaml.g.cs
+C:\Users\msi-pc\Desktop\Project\Last\Shopnear\Shopnear\Shopnear\Shopnear\obj\Debug\netstandard2.0\Views\ProductDetail.xaml.g.cs
+C:\Users\msi-pc\Desktop\Project\Last\Shopnear\Shopnear\Shopnear\Shopnear\obj\Debug\netstandard2.0\Views\ProductPage.xaml.g.cs
+C:\Users\msi-pc\Desktop\Project\Last\Shopnear\Shopnear\Shopnear\Shopnear\obj\Debug\netstandard2.0\Views\ProfileInfoPage.xaml.g.cs
+C:\Users\msi-pc\Desktop\Project\Last\Shopnear\Shopnear\Shopnear\Shopnear\obj\Debug\netstandard2.0\Views\ProfilePage.xaml.g.cs
+C:\Users\msi-pc\Desktop\Project\Last\Shopnear\Shopnear\Shopnear\Shopnear\obj\Debug\netstandard2.0\Views\Register.xaml.g.cs
+C:\Users\msi-pc\Desktop\Project\Last\Shopnear\Shopnear\Shopnear\Shopnear\obj\Debug\netstandard2.0\Views\ReviewPop.xaml.g.cs
+C:\Users\msi-pc\Desktop\Project\Last\Shopnear\Shopnear\Shopnear\Shopnear\obj\Debug\netstandard2.0\Views\SearchPop.xaml.g.cs
+C:\Users\msi-pc\Desktop\Project\Last\Shopnear\Shopnear\Shopnear\Shopnear\obj\Debug\netstandard2.0\Views\ShopPage.xaml.g.cs
+C:\Users\msi-pc\Desktop\Project\Last\Shopnear\Shopnear\Shopnear\Shopnear\obj\Debug\netstandard2.0\Views\ShopProductDetail.xaml.g.cs
+C:\Users\msi-pc\Desktop\Project\Last\Shopnear\Shopnear\Shopnear\Shopnear\obj\Debug\netstandard2.0\Shopnear.AssemblyInfoInputs.cache
+C:\Users\msi-pc\Desktop\Project\Last\Shopnear\Shopnear\Shopnear\Shopnear\obj\Debug\netstandard2.0\Shopnear.AssemblyInfo.cs
+C:\Users\msi-pc\Desktop\Project\Last\Shopnear\Shopnear\Shopnear\Shopnear\obj\Debug\netstandard2.0\Shopnear.csproj.CoreCompileInputs.cache
+C:\Users\msi-pc\Desktop\Project\Last\Shopnear\Shopnear\Shopnear\Shopnear\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\msi-pc\Desktop\Project\Last\Shopnear\Shopnear\Shopnear\Shopnear\obj\Debug\netstandard2.0\Shopnear.dll
+C:\Users\msi-pc\Desktop\Project\Last\Shopnear\Shopnear\Shopnear\Shopnear\obj\Debug\netstandard2.0\ref\Shopnear.dll
+C:\Users\msi-pc\Desktop\Project\Last\Shopnear\Shopnear\Shopnear\Shopnear\obj\Debug\netstandard2.0\Shopnear.pdb
+C:\Users\msi-pc\Desktop\Project\Last\Shopnear\Shopnear\Shopnear\Shopnear\obj\Debug\netstandard2.0\Views\ShopFormMap.xaml.g.cs
+C:\Users\msi-pc\Desktop\Project\Last\Shopnear\Shopnear\Shopnear\Shopnear\obj\Debug\netstandard2.0\Views\ShopMapDetail.xaml.g.cs
+C:\Users\Nitro-5\Desktop\ProjectShopnear\SN6\Shopnear\Shopnear\Shopnear\bin\Debug\netstandard2.0\Shopnear.deps.json
+C:\Users\Nitro-5\Desktop\ProjectShopnear\SN6\Shopnear\Shopnear\Shopnear\bin\Debug\netstandard2.0\Shopnear.dll
+C:\Users\Nitro-5\Desktop\ProjectShopnear\SN6\Shopnear\Shopnear\Shopnear\bin\Debug\netstandard2.0\ref\Shopnear.dll
+C:\Users\Nitro-5\Desktop\ProjectShopnear\SN6\Shopnear\Shopnear\Shopnear\bin\Debug\netstandard2.0\Shopnear.pdb
+C:\Users\Nitro-5\Desktop\ProjectShopnear\SN6\Shopnear\Shopnear\Shopnear\obj\Debug\netstandard2.0\Shopnear.csprojAssemblyReference.cache
+C:\Users\Nitro-5\Desktop\ProjectShopnear\SN6\Shopnear\Shopnear\Shopnear\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Nitro-5\Desktop\ProjectShopnear\SN6\Shopnear\Shopnear\Shopnear\obj\Debug\netstandard2.0\Views\AddAgentShop.xaml.g.cs
+C:\Users\Nitro-5\Desktop\ProjectShopnear\SN6\Shopnear\Shopnear\Shopnear\obj\Debug\netstandard2.0\Views\AddNameShop.xaml.g.cs
+C:\Users\Nitro-5\Desktop\ProjectShopnear\SN6\Shopnear\Shopnear\Shopnear\obj\Debug\netstandard2.0\Views\AddPayShop.xaml.g.cs
+C:\Users\Nitro-5\Desktop\ProjectShopnear\SN6\Shopnear\Shopnear\Shopnear\obj\Debug\netstandard2.0\Views\AddProduct.xaml.g.cs
+C:\Users\Nitro-5\Desktop\ProjectShopnear\SN6\Shopnear\Shopnear\Shopnear\obj\Debug\netstandard2.0\Views\AddShop.xaml.g.cs
+C:\Users\Nitro-5\Desktop\ProjectShopnear\SN6\Shopnear\Shopnear\Shopnear\obj\Debug\netstandard2.0\Views\AdminPage.xaml.g.cs
+C:\Users\Nitro-5\Desktop\ProjectShopnear\SN6\Shopnear\Shopnear\Shopnear\obj\Debug\netstandard2.0\Views\AgentCard.xaml.g.cs
+C:\Users\Nitro-5\Desktop\ProjectShopnear\SN6\Shopnear\Shopnear\Shopnear\obj\Debug\netstandard2.0\Views\Cart.xaml.g.cs
+C:\Users\Nitro-5\Desktop\ProjectShopnear\SN6\Shopnear\Shopnear\Shopnear\obj\Debug\netstandard2.0\Views\CkShop.xaml.g.cs
+C:\Users\Nitro-5\Desktop\ProjectShopnear\SN6\Shopnear\Shopnear\Shopnear\obj\Debug\netstandard2.0\Views\CkShopPop.xaml.g.cs
+C:\Users\Nitro-5\Desktop\ProjectShopnear\SN6\Shopnear\Shopnear\Shopnear\obj\Debug\netstandard2.0\Views\CkUser.xaml.g.cs
+C:\Users\Nitro-5\Desktop\ProjectShopnear\SN6\Shopnear\Shopnear\Shopnear\obj\Debug\netstandard2.0\Views\CkUserPop.xaml.g.cs
+C:\Users\Nitro-5\Desktop\ProjectShopnear\SN6\Shopnear\Shopnear\Shopnear\obj\Debug\netstandard2.0\Views\FollowBrand.xaml.g.cs
+C:\Users\Nitro-5\Desktop\ProjectShopnear\SN6\Shopnear\Shopnear\Shopnear\obj\Debug\netstandard2.0\Views\History.xaml.g.cs
+C:\Users\Nitro-5\Desktop\ProjectShopnear\SN6\Shopnear\Shopnear\Shopnear\obj\Debug\netstandard2.0\Views\HistoryDetail.xaml.g.cs
+C:\Users\Nitro-5\Desktop\ProjectShopnear\SN6\Shopnear\Shopnear\Shopnear\obj\Debug\netstandard2.0\Views\LoadingPop.xaml.g.cs
+C:\Users\Nitro-5\Desktop\ProjectShopnear\SN6\Shopnear\Shopnear\Shopnear\obj\Debug\netstandard2.0\Views\loginPage.xaml.g.cs
+C:\Users\Nitro-5\Desktop\ProjectShopnear\SN6\Shopnear\Shopnear\Shopnear\obj\Debug\netstandard2.0\Views\MapPage.xaml.g.cs
+C:\Users\Nitro-5\Desktop\ProjectShopnear\SN6\Shopnear\Shopnear\Shopnear\obj\Debug\netstandard2.0\Views\MapPinAdd.xaml.g.cs
+C:\Users\Nitro-5\Desktop\ProjectShopnear\SN6\Shopnear\Shopnear\Shopnear\obj\Debug\netstandard2.0\Views\Notification.xaml.g.cs
+C:\Users\Nitro-5\Desktop\ProjectShopnear\SN6\Shopnear\Shopnear\Shopnear\obj\Debug\netstandard2.0\Views\NotificationDetail.xaml.g.cs
+C:\Users\Nitro-5\Desktop\ProjectShopnear\SN6\Shopnear\Shopnear\Shopnear\obj\Debug\netstandard2.0\Views\Payment.xaml.g.cs
+C:\Users\Nitro-5\Desktop\ProjectShopnear\SN6\Shopnear\Shopnear\Shopnear\obj\Debug\netstandard2.0\Views\ProductDetail.xaml.g.cs
+C:\Users\Nitro-5\Desktop\ProjectShopnear\SN6\Shopnear\Shopnear\Shopnear\obj\Debug\netstandard2.0\Views\ProductPage.xaml.g.cs
+C:\Users\Nitro-5\Desktop\ProjectShopnear\SN6\Shopnear\Shopnear\Shopnear\obj\Debug\netstandard2.0\Views\ProfileInfoPage.xaml.g.cs
+C:\Users\Nitro-5\Desktop\ProjectShopnear\SN6\Shopnear\Shopnear\Shopnear\obj\Debug\netstandard2.0\Views\ProfilePage.xaml.g.cs
+C:\Users\Nitro-5\Desktop\ProjectShopnear\SN6\Shopnear\Shopnear\Shopnear\obj\Debug\netstandard2.0\Views\Register.xaml.g.cs
+C:\Users\Nitro-5\Desktop\ProjectShopnear\SN6\Shopnear\Shopnear\Shopnear\obj\Debug\netstandard2.0\Views\ReviewPop.xaml.g.cs
+C:\Users\Nitro-5\Desktop\ProjectShopnear\SN6\Shopnear\Shopnear\Shopnear\obj\Debug\netstandard2.0\Views\SearchPop.xaml.g.cs
+C:\Users\Nitro-5\Desktop\ProjectShopnear\SN6\Shopnear\Shopnear\Shopnear\obj\Debug\netstandard2.0\Views\ShopFormMap.xaml.g.cs
+C:\Users\Nitro-5\Desktop\ProjectShopnear\SN6\Shopnear\Shopnear\Shopnear\obj\Debug\netstandard2.0\Views\ShopMapDetail.xaml.g.cs
+C:\Users\Nitro-5\Desktop\ProjectShopnear\SN6\Shopnear\Shopnear\Shopnear\obj\Debug\netstandard2.0\Views\ShopPage.xaml.g.cs
+C:\Users\Nitro-5\Desktop\ProjectShopnear\SN6\Shopnear\Shopnear\Shopnear\obj\Debug\netstandard2.0\Views\ShopProductDetail.xaml.g.cs
+C:\Users\Nitro-5\Desktop\ProjectShopnear\SN6\Shopnear\Shopnear\Shopnear\obj\Debug\netstandard2.0\Shopnear.AssemblyInfoInputs.cache
+C:\Users\Nitro-5\Desktop\ProjectShopnear\SN6\Shopnear\Shopnear\Shopnear\obj\Debug\netstandard2.0\Shopnear.AssemblyInfo.cs
+C:\Users\Nitro-5\Desktop\ProjectShopnear\SN6\Shopnear\Shopnear\Shopnear\obj\Debug\netstandard2.0\Shopnear.csproj.CoreCompileInputs.cache
+C:\Users\Nitro-5\Desktop\ProjectShopnear\SN6\Shopnear\Shopnear\Shopnear\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Nitro-5\Desktop\ProjectShopnear\SN6\Shopnear\Shopnear\Shopnear\obj\Debug\netstandard2.0\Shopnear.dll
+C:\Users\Nitro-5\Desktop\ProjectShopnear\SN6\Shopnear\Shopnear\Shopnear\obj\Debug\netstandard2.0\ref\Shopnear.dll
+C:\Users\Nitro-5\Desktop\ProjectShopnear\SN6\Shopnear\Shopnear\Shopnear\obj\Debug\netstandard2.0\Shopnear.pdb
+C:\Users\msi-pc\Desktop\Project\NewLast\Shopnear\Shopnear\Shopnear\Shopnear\bin\Debug\netstandard2.0\Shopnear.deps.json
+C:\Users\msi-pc\Desktop\Project\NewLast\Shopnear\Shopnear\Shopnear\Shopnear\bin\Debug\netstandard2.0\Shopnear.dll
+C:\Users\msi-pc\Desktop\Project\NewLast\Shopnear\Shopnear\Shopnear\Shopnear\bin\Debug\netstandard2.0\ref\Shopnear.dll
+C:\Users\msi-pc\Desktop\Project\NewLast\Shopnear\Shopnear\Shopnear\Shopnear\bin\Debug\netstandard2.0\Shopnear.pdb
+C:\Users\msi-pc\Desktop\Project\NewLast\Shopnear\Shopnear\Shopnear\Shopnear\obj\Debug\netstandard2.0\Shopnear.csprojAssemblyReference.cache
+C:\Users\msi-pc\Desktop\Project\NewLast\Shopnear\Shopnear\Shopnear\Shopnear\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\msi-pc\Desktop\Project\NewLast\Shopnear\Shopnear\Shopnear\Shopnear\obj\Debug\netstandard2.0\Views\AddAgentShop.xaml.g.cs
+C:\Users\msi-pc\Desktop\Project\NewLast\Shopnear\Shopnear\Shopnear\Shopnear\obj\Debug\netstandard2.0\Views\AddNameShop.xaml.g.cs
+C:\Users\msi-pc\Desktop\Project\NewLast\Shopnear\Shopnear\Shopnear\Shopnear\obj\Debug\netstandard2.0\Views\AddPayShop.xaml.g.cs
+C:\Users\msi-pc\Desktop\Project\NewLast\Shopnear\Shopnear\Shopnear\Shopnear\obj\Debug\netstandard2.0\Views\AddProduct.xaml.g.cs
+C:\Users\msi-pc\Desktop\Project\NewLast\Shopnear\Shopnear\Shopnear\Shopnear\obj\Debug\netstandard2.0\Views\AddShop.xaml.g.cs
+C:\Users\msi-pc\Desktop\Project\NewLast\Shopnear\Shopnear\Shopnear\Shopnear\obj\Debug\netstandard2.0\Views\AdminPage.xaml.g.cs
+C:\Users\msi-pc\Desktop\Project\NewLast\Shopnear\Shopnear\Shopnear\Shopnear\obj\Debug\netstandard2.0\Views\AgentCard.xaml.g.cs
+C:\Users\msi-pc\Desktop\Project\NewLast\Shopnear\Shopnear\Shopnear\Shopnear\obj\Debug\netstandard2.0\Views\Cart.xaml.g.cs
+C:\Users\msi-pc\Desktop\Project\NewLast\Shopnear\Shopnear\Shopnear\Shopnear\obj\Debug\netstandard2.0\Views\CkShop.xaml.g.cs
+C:\Users\msi-pc\Desktop\Project\NewLast\Shopnear\Shopnear\Shopnear\Shopnear\obj\Debug\netstandard2.0\Views\CkShopPop.xaml.g.cs
+C:\Users\msi-pc\Desktop\Project\NewLast\Shopnear\Shopnear\Shopnear\Shopnear\obj\Debug\netstandard2.0\Views\CkUser.xaml.g.cs
+C:\Users\msi-pc\Desktop\Project\NewLast\Shopnear\Shopnear\Shopnear\Shopnear\obj\Debug\netstandard2.0\Views\CkUserPop.xaml.g.cs
+C:\Users\msi-pc\Desktop\Project\NewLast\Shopnear\Shopnear\Shopnear\Shopnear\obj\Debug\netstandard2.0\Views\FollowBrand.xaml.g.cs
+C:\Users\msi-pc\Desktop\Project\NewLast\Shopnear\Shopnear\Shopnear\Shopnear\obj\Debug\netstandard2.0\Views\History.xaml.g.cs
+C:\Users\msi-pc\Desktop\Project\NewLast\Shopnear\Shopnear\Shopnear\Shopnear\obj\Debug\netstandard2.0\Views\HistoryDetail.xaml.g.cs
+C:\Users\msi-pc\Desktop\Project\NewLast\Shopnear\Shopnear\Shopnear\Shopnear\obj\Debug\netstandard2.0\Views\LoadingPop.xaml.g.cs
+C:\Users\msi-pc\Desktop\Project\NewLast\Shopnear\Shopnear\Shopnear\Shopnear\obj\Debug\netstandard2.0\Views\loginPage.xaml.g.cs
+C:\Users\msi-pc\Desktop\Project\NewLast\Shopnear\Shopnear\Shopnear\Shopnear\obj\Debug\netstandard2.0\Views\MapPage.xaml.g.cs
+C:\Users\msi-pc\Desktop\Project\NewLast\Shopnear\Shopnear\Shopnear\Shopnear\obj\Debug\netstandard2.0\Views\MapPinAdd.xaml.g.cs
+C:\Users\msi-pc\Desktop\Project\NewLast\Shopnear\Shopnear\Shopnear\Shopnear\obj\Debug\netstandard2.0\Views\Notification.xaml.g.cs
+C:\Users\msi-pc\Desktop\Project\NewLast\Shopnear\Shopnear\Shopnear\Shopnear\obj\Debug\netstandard2.0\Views\NotificationDetail.xaml.g.cs
+C:\Users\msi-pc\Desktop\Project\NewLast\Shopnear\Shopnear\Shopnear\Shopnear\obj\Debug\netstandard2.0\Views\Payment.xaml.g.cs
+C:\Users\msi-pc\Desktop\Project\NewLast\Shopnear\Shopnear\Shopnear\Shopnear\obj\Debug\netstandard2.0\Views\ProductDetail.xaml.g.cs
+C:\Users\msi-pc\Desktop\Project\NewLast\Shopnear\Shopnear\Shopnear\Shopnear\obj\Debug\netstandard2.0\Views\ProductPage.xaml.g.cs
+C:\Users\msi-pc\Desktop\Project\NewLast\Shopnear\Shopnear\Shopnear\Shopnear\obj\Debug\netstandard2.0\Views\ProfileInfoPage.xaml.g.cs
+C:\Users\msi-pc\Desktop\Project\NewLast\Shopnear\Shopnear\Shopnear\Shopnear\obj\Debug\netstandard2.0\Views\ProfilePage.xaml.g.cs
+C:\Users\msi-pc\Desktop\Project\NewLast\Shopnear\Shopnear\Shopnear\Shopnear\obj\Debug\netstandard2.0\Views\Register.xaml.g.cs
+C:\Users\msi-pc\Desktop\Project\NewLast\Shopnear\Shopnear\Shopnear\Shopnear\obj\Debug\netstandard2.0\Views\ReviewPop.xaml.g.cs
+C:\Users\msi-pc\Desktop\Project\NewLast\Shopnear\Shopnear\Shopnear\Shopnear\obj\Debug\netstandard2.0\Views\SearchPop.xaml.g.cs
+C:\Users\msi-pc\Desktop\Project\NewLast\Shopnear\Shopnear\Shopnear\Shopnear\obj\Debug\netstandard2.0\Views\ShopFormMap.xaml.g.cs
+C:\Users\msi-pc\Desktop\Project\NewLast\Shopnear\Shopnear\Shopnear\Shopnear\obj\Debug\netstandard2.0\Views\ShopMapDetail.xaml.g.cs
+C:\Users\msi-pc\Desktop\Project\NewLast\Shopnear\Shopnear\Shopnear\Shopnear\obj\Debug\netstandard2.0\Views\ShopPage.xaml.g.cs
+C:\Users\msi-pc\Desktop\Project\NewLast\Shopnear\Shopnear\Shopnear\Shopnear\obj\Debug\netstandard2.0\Views\ShopProductDetail.xaml.g.cs
+C:\Users\msi-pc\Desktop\Project\NewLast\Shopnear\Shopnear\Shopnear\Shopnear\obj\Debug\netstandard2.0\Shopnear.AssemblyInfoInputs.cache
+C:\Users\msi-pc\Desktop\Project\NewLast\Shopnear\Shopnear\Shopnear\Shopnear\obj\Debug\netstandard2.0\Shopnear.AssemblyInfo.cs
+C:\Users\msi-pc\Desktop\Project\NewLast\Shopnear\Shopnear\Shopnear\Shopnear\obj\Debug\netstandard2.0\Shopnear.csproj.CoreCompileInputs.cache
+C:\Users\msi-pc\Desktop\Project\NewLast\Shopnear\Shopnear\Shopnear\Shopnear\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\msi-pc\Desktop\Project\NewLast\Shopnear\Shopnear\Shopnear\Shopnear\obj\Debug\netstandard2.0\Shopnear.dll
+C:\Users\msi-pc\Desktop\Project\NewLast\Shopnear\Shopnear\Shopnear\Shopnear\obj\Debug\netstandard2.0\ref\Shopnear.dll
+C:\Users\msi-pc\Desktop\Project\NewLast\Shopnear\Shopnear\Shopnear\Shopnear\obj\Debug\netstandard2.0\Shopnear.pdb
+C:\Users\Nitro-5\Desktop\ProjectShopnear\SN2\Shopnear\Shopnear\Shopnear\bin\Debug\netstandard2.0\Shopnear.deps.json
+C:\Users\Nitro-5\Desktop\ProjectShopnear\SN2\Shopnear\Shopnear\Shopnear\bin\Debug\netstandard2.0\Shopnear.dll
+C:\Users\Nitro-5\Desktop\ProjectShopnear\SN2\Shopnear\Shopnear\Shopnear\bin\Debug\netstandard2.0\ref\Shopnear.dll
+C:\Users\Nitro-5\Desktop\ProjectShopnear\SN2\Shopnear\Shopnear\Shopnear\bin\Debug\netstandard2.0\Shopnear.pdb
+C:\Users\Nitro-5\Desktop\ProjectShopnear\SN2\Shopnear\Shopnear\Shopnear\obj\Debug\netstandard2.0\Shopnear.csprojAssemblyReference.cache
+C:\Users\Nitro-5\Desktop\ProjectShopnear\SN2\Shopnear\Shopnear\Shopnear\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Nitro-5\Desktop\ProjectShopnear\SN2\Shopnear\Shopnear\Shopnear\obj\Debug\netstandard2.0\Views\AddAgentShop.xaml.g.cs
+C:\Users\Nitro-5\Desktop\ProjectShopnear\SN2\Shopnear\Shopnear\Shopnear\obj\Debug\netstandard2.0\Views\AddNameShop.xaml.g.cs
+C:\Users\Nitro-5\Desktop\ProjectShopnear\SN2\Shopnear\Shopnear\Shopnear\obj\Debug\netstandard2.0\Views\AddPayShop.xaml.g.cs
+C:\Users\Nitro-5\Desktop\ProjectShopnear\SN2\Shopnear\Shopnear\Shopnear\obj\Debug\netstandard2.0\Views\AddProduct.xaml.g.cs
+C:\Users\Nitro-5\Desktop\ProjectShopnear\SN2\Shopnear\Shopnear\Shopnear\obj\Debug\netstandard2.0\Views\AddShop.xaml.g.cs
+C:\Users\Nitro-5\Desktop\ProjectShopnear\SN2\Shopnear\Shopnear\Shopnear\obj\Debug\netstandard2.0\Views\AdminPage.xaml.g.cs
+C:\Users\Nitro-5\Desktop\ProjectShopnear\SN2\Shopnear\Shopnear\Shopnear\obj\Debug\netstandard2.0\Views\AgentCard.xaml.g.cs
+C:\Users\Nitro-5\Desktop\ProjectShopnear\SN2\Shopnear\Shopnear\Shopnear\obj\Debug\netstandard2.0\Views\Cart.xaml.g.cs
+C:\Users\Nitro-5\Desktop\ProjectShopnear\SN2\Shopnear\Shopnear\Shopnear\obj\Debug\netstandard2.0\Views\CkShop.xaml.g.cs
+C:\Users\Nitro-5\Desktop\ProjectShopnear\SN2\Shopnear\Shopnear\Shopnear\obj\Debug\netstandard2.0\Views\CkShopPop.xaml.g.cs
+C:\Users\Nitro-5\Desktop\ProjectShopnear\SN2\Shopnear\Shopnear\Shopnear\obj\Debug\netstandard2.0\Views\CkUser.xaml.g.cs
+C:\Users\Nitro-5\Desktop\ProjectShopnear\SN2\Shopnear\Shopnear\Shopnear\obj\Debug\netstandard2.0\Views\CkUserPop.xaml.g.cs
+C:\Users\Nitro-5\Desktop\ProjectShopnear\SN2\Shopnear\Shopnear\Shopnear\obj\Debug\netstandard2.0\Views\FollowBrand.xaml.g.cs
+C:\Users\Nitro-5\Desktop\ProjectShopnear\SN2\Shopnear\Shopnear\Shopnear\obj\Debug\netstandard2.0\Views\History.xaml.g.cs
+C:\Users\Nitro-5\Desktop\ProjectShopnear\SN2\Shopnear\Shopnear\Shopnear\obj\Debug\netstandard2.0\Views\HistoryDetail.xaml.g.cs
+C:\Users\Nitro-5\Desktop\ProjectShopnear\SN2\Shopnear\Shopnear\Shopnear\obj\Debug\netstandard2.0\Views\LoadingPop.xaml.g.cs
+C:\Users\Nitro-5\Desktop\ProjectShopnear\SN2\Shopnear\Shopnear\Shopnear\obj\Debug\netstandard2.0\Views\loginPage.xaml.g.cs
+C:\Users\Nitro-5\Desktop\ProjectShopnear\SN2\Shopnear\Shopnear\Shopnear\obj\Debug\netstandard2.0\Views\MapPage.xaml.g.cs
+C:\Users\Nitro-5\Desktop\ProjectShopnear\SN2\Shopnear\Shopnear\Shopnear\obj\Debug\netstandard2.0\Views\MapPinAdd.xaml.g.cs
+C:\Users\Nitro-5\Desktop\ProjectShopnear\SN2\Shopnear\Shopnear\Shopnear\obj\Debug\netstandard2.0\Views\Notification.xaml.g.cs
+C:\Users\Nitro-5\Desktop\ProjectShopnear\SN2\Shopnear\Shopnear\Shopnear\obj\Debug\netstandard2.0\Views\NotificationDetail.xaml.g.cs
+C:\Users\Nitro-5\Desktop\ProjectShopnear\SN2\Shopnear\Shopnear\Shopnear\obj\Debug\netstandard2.0\Views\Payment.xaml.g.cs
+C:\Users\Nitro-5\Desktop\ProjectShopnear\SN2\Shopnear\Shopnear\Shopnear\obj\Debug\netstandard2.0\Views\ProductDetail.xaml.g.cs
+C:\Users\Nitro-5\Desktop\ProjectShopnear\SN2\Shopnear\Shopnear\Shopnear\obj\Debug\netstandard2.0\Views\ProductPage.xaml.g.cs
+C:\Users\Nitro-5\Desktop\ProjectShopnear\SN2\Shopnear\Shopnear\Shopnear\obj\Debug\netstandard2.0\Views\ProfileInfoPage.xaml.g.cs
+C:\Users\Nitro-5\Desktop\ProjectShopnear\SN2\Shopnear\Shopnear\Shopnear\obj\Debug\netstandard2.0\Views\ProfilePage.xaml.g.cs
+C:\Users\Nitro-5\Desktop\ProjectShopnear\SN2\Shopnear\Shopnear\Shopnear\obj\Debug\netstandard2.0\Views\Register.xaml.g.cs
+C:\Users\Nitro-5\Desktop\ProjectShopnear\SN2\Shopnear\Shopnear\Shopnear\obj\Debug\netstandard2.0\Views\ReviewPop.xaml.g.cs
+C:\Users\Nitro-5\Desktop\ProjectShopnear\SN2\Shopnear\Shopnear\Shopnear\obj\Debug\netstandard2.0\Views\SearchPop.xaml.g.cs
+C:\Users\Nitro-5\Desktop\ProjectShopnear\SN2\Shopnear\Shopnear\Shopnear\obj\Debug\netstandard2.0\Views\ShopFormMap.xaml.g.cs
+C:\Users\Nitro-5\Desktop\ProjectShopnear\SN2\Shopnear\Shopnear\Shopnear\obj\Debug\netstandard2.0\Views\ShopMapDetail.xaml.g.cs
+C:\Users\Nitro-5\Desktop\ProjectShopnear\SN2\Shopnear\Shopnear\Shopnear\obj\Debug\netstandard2.0\Views\ShopPage.xaml.g.cs
+C:\Users\Nitro-5\Desktop\ProjectShopnear\SN2\Shopnear\Shopnear\Shopnear\obj\Debug\netstandard2.0\Views\ShopProductDetail.xaml.g.cs
+C:\Users\Nitro-5\Desktop\ProjectShopnear\SN2\Shopnear\Shopnear\Shopnear\obj\Debug\netstandard2.0\Shopnear.AssemblyInfoInputs.cache
+C:\Users\Nitro-5\Desktop\ProjectShopnear\SN2\Shopnear\Shopnear\Shopnear\obj\Debug\netstandard2.0\Shopnear.AssemblyInfo.cs
+C:\Users\Nitro-5\Desktop\ProjectShopnear\SN2\Shopnear\Shopnear\Shopnear\obj\Debug\netstandard2.0\Shopnear.csproj.CoreCompileInputs.cache
+C:\Users\Nitro-5\Desktop\ProjectShopnear\SN2\Shopnear\Shopnear\Shopnear\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Nitro-5\Desktop\ProjectShopnear\SN2\Shopnear\Shopnear\Shopnear\obj\Debug\netstandard2.0\Shopnear.dll
+C:\Users\Nitro-5\Desktop\ProjectShopnear\SN2\Shopnear\Shopnear\Shopnear\obj\Debug\netstandard2.0\ref\Shopnear.dll
+C:\Users\Nitro-5\Desktop\ProjectShopnear\SN2\Shopnear\Shopnear\Shopnear\obj\Debug\netstandard2.0\Shopnear.pdb
+C:\Users\msi-pc\Desktop\Project\Shopnear (1)\Shopnear\Shopnear\Shopnear\bin\Debug\netstandard2.0\Shopnear.deps.json
+C:\Users\msi-pc\Desktop\Project\Shopnear (1)\Shopnear\Shopnear\Shopnear\bin\Debug\netstandard2.0\Shopnear.dll
+C:\Users\msi-pc\Desktop\Project\Shopnear (1)\Shopnear\Shopnear\Shopnear\bin\Debug\netstandard2.0\ref\Shopnear.dll
+C:\Users\msi-pc\Desktop\Project\Shopnear (1)\Shopnear\Shopnear\Shopnear\bin\Debug\netstandard2.0\Shopnear.pdb
+C:\Users\msi-pc\Desktop\Project\Shopnear (1)\Shopnear\Shopnear\Shopnear\obj\Debug\netstandard2.0\Shopnear.csprojAssemblyReference.cache
+C:\Users\msi-pc\Desktop\Project\Shopnear (1)\Shopnear\Shopnear\Shopnear\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\msi-pc\Desktop\Project\Shopnear (1)\Shopnear\Shopnear\Shopnear\obj\Debug\netstandard2.0\Views\AddAgentShop.xaml.g.cs
+C:\Users\msi-pc\Desktop\Project\Shopnear (1)\Shopnear\Shopnear\Shopnear\obj\Debug\netstandard2.0\Views\AddNameShop.xaml.g.cs
+C:\Users\msi-pc\Desktop\Project\Shopnear (1)\Shopnear\Shopnear\Shopnear\obj\Debug\netstandard2.0\Views\AddPayShop.xaml.g.cs
+C:\Users\msi-pc\Desktop\Project\Shopnear (1)\Shopnear\Shopnear\Shopnear\obj\Debug\netstandard2.0\Views\AddProduct.xaml.g.cs
+C:\Users\msi-pc\Desktop\Project\Shopnear (1)\Shopnear\Shopnear\Shopnear\obj\Debug\netstandard2.0\Views\AddShop.xaml.g.cs
+C:\Users\msi-pc\Desktop\Project\Shopnear (1)\Shopnear\Shopnear\Shopnear\obj\Debug\netstandard2.0\Views\AdminPage.xaml.g.cs
+C:\Users\msi-pc\Desktop\Project\Shopnear (1)\Shopnear\Shopnear\Shopnear\obj\Debug\netstandard2.0\Views\AgentCard.xaml.g.cs
+C:\Users\msi-pc\Desktop\Project\Shopnear (1)\Shopnear\Shopnear\Shopnear\obj\Debug\netstandard2.0\Views\Cart.xaml.g.cs
+C:\Users\msi-pc\Desktop\Project\Shopnear (1)\Shopnear\Shopnear\Shopnear\obj\Debug\netstandard2.0\Views\CkShop.xaml.g.cs
+C:\Users\msi-pc\Desktop\Project\Shopnear (1)\Shopnear\Shopnear\Shopnear\obj\Debug\netstandard2.0\Views\CkShopPop.xaml.g.cs
+C:\Users\msi-pc\Desktop\Project\Shopnear (1)\Shopnear\Shopnear\Shopnear\obj\Debug\netstandard2.0\Views\CkUser.xaml.g.cs
+C:\Users\msi-pc\Desktop\Project\Shopnear (1)\Shopnear\Shopnear\Shopnear\obj\Debug\netstandard2.0\Views\CkUserPop.xaml.g.cs
+C:\Users\msi-pc\Desktop\Project\Shopnear (1)\Shopnear\Shopnear\Shopnear\obj\Debug\netstandard2.0\Views\FollowBrand.xaml.g.cs
+C:\Users\msi-pc\Desktop\Project\Shopnear (1)\Shopnear\Shopnear\Shopnear\obj\Debug\netstandard2.0\Views\History.xaml.g.cs
+C:\Users\msi-pc\Desktop\Project\Shopnear (1)\Shopnear\Shopnear\Shopnear\obj\Debug\netstandard2.0\Views\HistoryDetail.xaml.g.cs
+C:\Users\msi-pc\Desktop\Project\Shopnear (1)\Shopnear\Shopnear\Shopnear\obj\Debug\netstandard2.0\Views\LoadingPop.xaml.g.cs
+C:\Users\msi-pc\Desktop\Project\Shopnear (1)\Shopnear\Shopnear\Shopnear\obj\Debug\netstandard2.0\Views\loginPage.xaml.g.cs
+C:\Users\msi-pc\Desktop\Project\Shopnear (1)\Shopnear\Shopnear\Shopnear\obj\Debug\netstandard2.0\Views\MapPage.xaml.g.cs
+C:\Users\msi-pc\Desktop\Project\Shopnear (1)\Shopnear\Shopnear\Shopnear\obj\Debug\netstandard2.0\Views\MapPinAdd.xaml.g.cs
+C:\Users\msi-pc\Desktop\Project\Shopnear (1)\Shopnear\Shopnear\Shopnear\obj\Debug\netstandard2.0\Views\Notification.xaml.g.cs
+C:\Users\msi-pc\Desktop\Project\Shopnear (1)\Shopnear\Shopnear\Shopnear\obj\Debug\netstandard2.0\Views\NotificationDetail.xaml.g.cs
+C:\Users\msi-pc\Desktop\Project\Shopnear (1)\Shopnear\Shopnear\Shopnear\obj\Debug\netstandard2.0\Views\Payment.xaml.g.cs
+C:\Users\msi-pc\Desktop\Project\Shopnear (1)\Shopnear\Shopnear\Shopnear\obj\Debug\netstandard2.0\Views\ProductDetail.xaml.g.cs
+C:\Users\msi-pc\Desktop\Project\Shopnear (1)\Shopnear\Shopnear\Shopnear\obj\Debug\netstandard2.0\Views\ProductPage.xaml.g.cs
+C:\Users\msi-pc\Desktop\Project\Shopnear (1)\Shopnear\Shopnear\Shopnear\obj\Debug\netstandard2.0\Views\ProfileInfoPage.xaml.g.cs
+C:\Users\msi-pc\Desktop\Project\Shopnear (1)\Shopnear\Shopnear\Shopnear\obj\Debug\netstandard2.0\Views\ProfilePage.xaml.g.cs
+C:\Users\msi-pc\Desktop\Project\Shopnear (1)\Shopnear\Shopnear\Shopnear\obj\Debug\netstandard2.0\Views\Register.xaml.g.cs
+C:\Users\msi-pc\Desktop\Project\Shopnear (1)\Shopnear\Shopnear\Shopnear\obj\Debug\netstandard2.0\Views\ReviewPop.xaml.g.cs
+C:\Users\msi-pc\Desktop\Project\Shopnear (1)\Shopnear\Shopnear\Shopnear\obj\Debug\netstandard2.0\Views\SearchPop.xaml.g.cs
+C:\Users\msi-pc\Desktop\Project\Shopnear (1)\Shopnear\Shopnear\Shopnear\obj\Debug\netstandard2.0\Views\ShopFormMap.xaml.g.cs
+C:\Users\msi-pc\Desktop\Project\Shopnear (1)\Shopnear\Shopnear\Shopnear\obj\Debug\netstandard2.0\Views\ShopMapDetail.xaml.g.cs
+C:\Users\msi-pc\Desktop\Project\Shopnear (1)\Shopnear\Shopnear\Shopnear\obj\Debug\netstandard2.0\Views\ShopPage.xaml.g.cs
+C:\Users\msi-pc\Desktop\Project\Shopnear (1)\Shopnear\Shopnear\Shopnear\obj\Debug\netstandard2.0\Views\ShopProductDetail.xaml.g.cs
+C:\Users\msi-pc\Desktop\Project\Shopnear (1)\Shopnear\Shopnear\Shopnear\obj\Debug\netstandard2.0\Shopnear.AssemblyInfoInputs.cache
+C:\Users\msi-pc\Desktop\Project\Shopnear (1)\Shopnear\Shopnear\Shopnear\obj\Debug\netstandard2.0\Shopnear.AssemblyInfo.cs
+C:\Users\msi-pc\Desktop\Project\Shopnear (1)\Shopnear\Shopnear\Shopnear\obj\Debug\netstandard2.0\Shopnear.csproj.CoreCompileInputs.cache
+C:\Users\msi-pc\Desktop\Project\Shopnear (1)\Shopnear\Shopnear\Shopnear\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\msi-pc\Desktop\Project\Shopnear (1)\Shopnear\Shopnear\Shopnear\obj\Debug\netstandard2.0\Shopnear.dll
+C:\Users\msi-pc\Desktop\Project\Shopnear (1)\Shopnear\Shopnear\Shopnear\obj\Debug\netstandard2.0\ref\Shopnear.dll
+C:\Users\msi-pc\Desktop\Project\Shopnear (1)\Shopnear\Shopnear\Shopnear\obj\Debug\netstandard2.0\Shopnear.pdb
+C:\Users\Nitro-5\Desktop\ProjectShopnear\SN1\Shopnear\Shopnear\Shopnear\obj\Debug\netstandard2.0\Views\History.xaml.g.cs
+C:\Users\Nitro-5\Desktop\ProjectShopnear\SN1\Shopnear\Shopnear\Shopnear\obj\Debug\netstandard2.0\Views\HistoryDetail.xaml.g.cs
+C:\Users\Nitro-5\Desktop\ProjectShopnear\SN1\Shopnear\Shopnear\Shopnear\obj\Debug\netstandard2.0\Views\NotificationDetail.xaml.g.cs
+C:\Users\Nitro-5\Desktop\ProjectShopnear\SN1\Shopnear\Shopnear\Shopnear\obj\Debug\netstandard2.0\Views\ShopFormMap.xaml.g.cs
+C:\Users\Nitro-5\Desktop\ProjectShopnear\SN1\Shopnear\Shopnear\Shopnear\obj\Debug\netstandard2.0\Views\ShopMapDetail.xaml.g.cs
+C:\Users\Nitro-5\Desktop\ProjectShopnear\SN1\Shopnear\Shopnear\Shopnear\obj\Debug\netstandard2.0\Views\ShopProductDetail.xaml.g.cs
+C:\Users\Nitro-5\Desktop\ProjectShopnear\SN1\Shopnear\Shopnear\Shopnear\obj\Debug\netstandard2.0\Views\AdminHeader.xaml.g.cs

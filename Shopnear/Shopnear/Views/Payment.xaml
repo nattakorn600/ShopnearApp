@@ -1,0 +1,154 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage
+    x:Class="Shopnear.Views.Payment"
+    xmlns="http://xamarin.com/schemas/2014/forms"
+    xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml">
+    <ContentPage.Content>
+        <Grid BackgroundColor="#fff">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition />
+            </Grid.ColumnDefinitions>
+
+            <Grid.RowDefinitions>
+                <RowDefinition Height="70" />
+                <RowDefinition Height="*" />
+                <RowDefinition Height="60" />
+            </Grid.RowDefinitions>
+
+            <!--  Navbar  -->
+            <StackLayout Grid.Row="0" Grid.Column="0">
+                <Frame
+                    Margin="-1"
+                    Padding="1"
+                    BackgroundColor="#FFF"
+                    HasShadow="True"
+                    HeightRequest="70">
+                    <StackLayout Orientation="Horizontal">
+                        <!--  Back  -->
+                        <ImageButton
+                            Margin="-6,0"
+                            Padding="17"
+                            BackgroundColor="#3FFF"
+                            Clicked="BackPage"
+                            HeightRequest="50"
+                            HorizontalOptions="Start"
+                            Source="back.png"
+                            WidthRequest="52" />
+
+                        <!--  Header  -->
+                        <Label
+                            x:Name="paymentlabel"
+                            Margin="0,0,52,0"
+                            FontSize="Large"
+                            HorizontalOptions="CenterAndExpand"
+                            HorizontalTextAlignment="Center"
+                            TextColor="#3A4857"
+                            VerticalOptions="Center" />
+                    </StackLayout>
+                </Frame>
+            </StackLayout>
+
+            <StackLayout
+                Grid.Row="1"
+                Margin="20,30"
+                Orientation="Vertical">
+                <Grid>
+                    <Grid.RowDefinitions>
+                        <RowDefinition Height="20" />
+                        <RowDefinition Height="60" />
+                        <RowDefinition Height="60" />
+                    </Grid.RowDefinitions>
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="0.4*" />
+                        <ColumnDefinition Width="0.3*" />
+                        <ColumnDefinition Width="0.2*" />
+                    </Grid.ColumnDefinitions>
+                    <!--  Order Total  -->
+                    <Label
+                        x:Name="ordertolabel"
+                        Grid.Row="1"
+                        Grid.Column="0"
+                        FontAttributes="Bold"
+                        FontSize="20"
+                        HorizontalOptions="StartAndExpand" />
+                    <Label
+                        x:Name="TotalOrder"
+                        Grid.Row="1"
+                        Grid.Column="1"
+                        FontAttributes="Bold"
+                        FontSize="20"
+                        HorizontalOptions="EndAndExpand" />
+                    <Label
+                        x:Name="itemlabel"
+                        Grid.Row="1"
+                        Grid.Column="2"
+                        FontAttributes="Bold"
+                        FontSize="20"
+                        HorizontalOptions="EndAndExpand" />
+
+                    <!--  Total Payment  -->
+                    <Label
+                        x:Name="totalpaylabel"
+                        Grid.Row="2"
+                        Grid.Column="0"
+                        FontAttributes="Bold"
+                        FontSize="20"
+                        HorizontalOptions="StartAndExpand" />
+                    <Label
+                        x:Name="TotalPrice"
+                        Grid.Row="2"
+                        Grid.Column="1"
+                        FontAttributes="Bold"
+                        FontSize="20"
+                        HorizontalOptions="EndAndExpand" />
+                    <Label
+                        x:Name="thblabel"
+                        Grid.Row="2"
+                        Grid.Column="2"
+                        FontAttributes="Bold"
+                        FontSize="20"
+                        HorizontalOptions="EndAndExpand" />
+                </Grid>
+                <!--  Account number  -->
+                <StackLayout Margin="0,40,0,50">
+                    <Label
+                        x:Name="accountnumlabel"
+                        FontAttributes="Bold"
+                        FontSize="25" />
+
+                    <Label
+                        FontAttributes="Bold"
+                        FontSize="20"
+                        Text="123-4-5-52645-1  Kasikorn Bank" />
+                </StackLayout>
+                <!--  Add your payment  -->
+                <StackLayout
+                    Margin="0,0,0,100"
+                    HorizontalOptions="Center"
+                    VerticalOptions="Center">
+                    <Label
+                        x:Name="addpaylabel"
+                        FontSize="15"
+                        HorizontalOptions="Center" />
+                    <ImageButton
+                        x:Name="ShopImage"
+                        BackgroundColor="#f7f7f7"
+                        Clicked="ImageClicked"
+                        HeightRequest="150"
+                        Source="frame.png"
+                        WidthRequest="150" />
+                </StackLayout>
+                <!--  Button Finish  -->
+                <Button
+                    x:Name="finishbut"
+                    BackgroundColor="#3A4857"
+                    Clicked="Send"
+                    HeightRequest="60"
+                    HorizontalOptions="Center"
+                    TextColor="#FFF"
+                    WidthRequest="300" />
+
+            </StackLayout>
+        </Grid>
+    </ContentPage.Content>
+</ContentPage>

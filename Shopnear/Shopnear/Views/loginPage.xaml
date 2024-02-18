@@ -1,0 +1,129 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage
+    x:Class="Shopnear.loginPage"
+    xmlns="http://xamarin.com/schemas/2014/forms"
+    xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+    xmlns:d="http://xamarin.com/schemas/2014/forms/design"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    BackgroundColor="#FAFAFA"
+    mc:Ignorable="d">
+
+    <ContentPage.Content>
+
+        <Grid x:Name="MainStackLayout" Margin="20">
+            <Grid.RowDefinitions>
+                <RowDefinition />
+                <RowDefinition />
+                <RowDefinition Height="75" />
+                <RowDefinition Height="10" />
+                <RowDefinition Height="75" />
+                <RowDefinition Height="40" />
+                <RowDefinition Height="70" />
+                <RowDefinition />
+                <RowDefinition Height="100" />
+            </Grid.RowDefinitions>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition />
+            </Grid.ColumnDefinitions>
+
+            <Label
+                Grid.Row="1"
+                Grid.ColumnSpan="2"
+                FontSize="30"
+                HorizontalOptions="Center"
+                Text="SIGN IN"
+                TextColor="DarkGray"
+                VerticalOptions="Start" />
+
+            <Frame
+                Grid.Row="2"
+                Grid.ColumnSpan="2"
+                BorderColor="DarkGray"
+                HorizontalOptions="FillAndExpand">
+                <StackLayout>
+                    <Entry
+                        HorizontalOptions="FillAndExpand"
+                        Placeholder="Email"
+                        Text="{Binding email}"
+                        VerticalOptions="End" />
+                </StackLayout>
+            </Frame>
+
+            <Frame
+                Grid.Row="4"
+                Grid.ColumnSpan="2"
+                BorderColor="DarkGray"
+                HorizontalOptions="FillAndExpand">
+                <StackLayout>
+                    <Entry
+                        HorizontalOptions="FillAndExpand"
+                        IsPassword="True"
+                        Placeholder="Password"
+                        Text="{Binding pass}" />
+                </StackLayout>
+            </Frame>
+
+            <Label
+                Grid.Row="5"
+                Grid.ColumnSpan="2"
+                HorizontalOptions="EndAndExpand"
+                HorizontalTextAlignment="End"
+                Text="Forgot Password?" />
+
+            <Button
+                Grid.Row="6"
+                Grid.ColumnSpan="2"
+                BackgroundColor="#48525e"
+                Clicked="OnLoginClick"
+                FontSize="20"
+                Text="SIGN IN"
+                TextColor="LightGray" />
+
+
+            <Label
+                Grid.Row="7"
+                Grid.ColumnSpan="2"
+                FontSize="20"
+                HorizontalOptions="Center"
+                Text="OR"
+                TextColor="DarkGray"
+                VerticalOptions="Center" />
+
+            <StackLayout Grid.Row="8" Grid.ColumnSpan="2">
+                <ImageButton
+                    x:Name="Clickfb"
+                    BackgroundColor="#FAFAFA"
+                    Clicked="LoginWithFacebook_Clicked"
+                    HorizontalOptions="FillAndExpand"
+                    Source="facebook_log.png" />
+            </StackLayout>
+
+
+
+
+            <StackLayout
+                Grid.Row="9"
+                Grid.ColumnSpan="2"
+                HorizontalOptions="CenterAndExpand"
+                Orientation="Horizontal"
+                VerticalOptions="EndAndExpand">
+
+                <Label
+                    HorizontalOptions="Center"
+                    Text="Still Not Connected?"
+                    VerticalOptions="Center" />
+
+                <Label
+                    x:Name="lblClickSU"
+                    FontAttributes="Bold"
+                    HorizontalTextAlignment="End"
+                    Text="Sign Up"
+                    TextColor="#48525e"
+                    VerticalOptions="Center" />
+            </StackLayout>
+
+
+        </Grid>
+
+    </ContentPage.Content>
+</ContentPage>

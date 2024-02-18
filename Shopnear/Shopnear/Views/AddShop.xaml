@@ -1,0 +1,90 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage
+    x:Class="Shopnear.Views.AddShop"
+    xmlns="http://xamarin.com/schemas/2014/forms"
+    xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+    BackgroundColor="#FFF">
+
+    <ContentPage.Content>
+        <Grid BackgroundColor="#fff">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition />
+            </Grid.ColumnDefinitions>
+
+            <Grid.RowDefinitions>
+                <RowDefinition Height="70" />
+                <RowDefinition Height="170" />
+                <RowDefinition Height="2" />
+                <RowDefinition Height="*" />
+            </Grid.RowDefinitions>
+
+            <StackLayout Grid.Row="0" Grid.ColumnSpan="2">
+                <Frame
+                    Padding="1"
+                    BackgroundColor="#FFF"
+                    HasShadow="True"
+                    HeightRequest="70">
+                    <StackLayout Orientation="Horizontal">
+                        <ImageButton
+                            Margin="-6,0"
+                            Padding="17"
+                            BackgroundColor="#FFF"
+                            Clicked="BackPage"
+                            HeightRequest="50"
+                            HorizontalOptions="Start"
+                            Source="back.png"
+                            WidthRequest="52" />
+                    </StackLayout>
+                </Frame>
+            </StackLayout>
+
+            <StackLayout
+                Grid.Row="1"
+                Grid.ColumnSpan="2 "
+                Margin="10"
+                Orientation="Horizontal">
+                <ImageButton
+                    x:Name="user_picture"
+                    Margin="10"
+                    BackgroundColor="Black"
+                    CornerRadius="100"
+                    HeightRequest="130"
+                    HorizontalOptions="Start"
+                    Source="profile.png"
+                    WidthRequest="130" />
+
+                <Label
+                    x:Name="Name"
+                    FontAttributes="Bold"
+                    FontSize="25"
+                    TextColor="#404551"
+                    VerticalOptions="CenterAndExpand" />
+            </StackLayout>
+
+            <Frame
+                Grid.Row="2"
+                Grid.ColumnSpan="2 "
+                Padding="1"
+                BackgroundColor="DarkGray"
+                HorizontalOptions="Center"
+                WidthRequest="350" />
+
+
+            <StackLayout
+                Grid.Row="3"
+                Grid.ColumnSpan="2 "
+                Padding="50"
+                HorizontalOptions="Center"
+                VerticalOptions="Start">
+                <Image Source="Shop.png" WidthRequest="170" />
+                <Button
+                    x:Name="addbut"
+                    BackgroundColor="#404551"
+                    Clicked="Addhopdetail"
+                    TextColor="#FFF"
+                    WidthRequest="200" />
+            </StackLayout>
+
+        </Grid>
+    </ContentPage.Content>
+</ContentPage>

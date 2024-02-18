@@ -1,0 +1,232 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage
+    x:Class="Shopnear.Views.ProfilePage"
+    xmlns="http://xamarin.com/schemas/2014/forms"
+    xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+    xmlns:d="http://xamarin.com/schemas/2014/forms/design"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    BackgroundColor="{StaticResource bg}"
+    mc:Ignorable="d">
+
+    <ScrollView>
+        <Grid>
+            <Grid.RowDefinitions>
+                <RowDefinition Height="70" />
+                <RowDefinition Height="170" />
+                <RowDefinition Height="170" />
+                <RowDefinition Height="*" />
+                <RowDefinition Height="60" />
+
+            </Grid.RowDefinitions>
+
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition />
+                <ColumnDefinition />
+            </Grid.ColumnDefinitions>
+
+            <StackLayout Grid.ColumnSpan="2 " Orientation="Horizontal">
+                <Frame
+                    Padding="1"
+                    BackgroundColor="#FFF"
+                    HasShadow="True"
+                    HorizontalOptions="FillAndExpand">
+                    <StackLayout Orientation="Horizontal">
+                        <ImageButton
+                            Margin="-8"
+                            Padding="21"
+                            BackgroundColor="#FFF"
+                            Clicked="back"
+                            HeightRequest="50"
+                            HorizontalOptions="Start"
+                            Source="back.png"
+                            WidthRequest="60" />
+                        <Frame
+                            Margin="10"
+                            Padding="-10,10"
+                            BackgroundColor="#FFF"
+                            BorderColor="DarkGray"
+                            CornerRadius="10"
+                            HasShadow="True"
+                            HorizontalOptions="FillAndExpand">
+
+                            <StackLayout Orientation="Horizontal">
+                                <SearchBar
+                                    x:Name="search"
+                                    Margin="0,-10"
+                                    HorizontalOptions="FillAndExpand"
+                                    PlaceholderColor="DarkGray"
+                                    SearchButtonPressed="OnSearch"
+                                    TextColor="Black"
+                                    VerticalOptions="End"
+                                    WidthRequest="200" />
+                            </StackLayout>
+                        </Frame>
+                        <ImageButton
+                            x:Name="languageimg"
+                            Margin="-10,0,0,0"
+                            Padding="7"
+                            BackgroundColor="#FFF"
+                            Clicked="Changelanguage"
+                            HeightRequest="10"
+                            HorizontalOptions="Center"
+                            WidthRequest="50" />
+
+
+                    </StackLayout>
+                </Frame>
+            </StackLayout>
+
+            <StackLayout
+                Grid.Row="1"
+                Grid.ColumnSpan="2 "
+                Margin="10"
+                Orientation="Horizontal">
+                <ImageButton
+                    x:Name="user_picture"
+                    Margin="10"
+                    BackgroundColor="Black"
+                    Clicked="ToProfileInfoPage"
+                    CornerRadius="100"
+                    HeightRequest="130"
+                    HorizontalOptions="Start"
+                    Source="profile.png"
+                    WidthRequest="130" />
+
+                <Label
+                    x:Name="Name"
+                    FontAttributes="Bold"
+                    FontSize="25"
+                    TextColor="#404551"
+                    VerticalOptions="CenterAndExpand" />
+            </StackLayout>
+
+            <StackLayout
+                Grid.Row="2"
+                Grid.ColumnSpan="2"
+                BackgroundColor="#302f35"
+                Orientation="Horizontal">
+                <Button
+                    x:Name="agentcard"
+                    BackgroundColor="#e3e6e5"
+                    Clicked="Agent"
+                    FontAttributes="Bold"
+                    FontSize="30"
+                    HeightRequest="170"
+                    HorizontalOptions="StartAndExpand"
+                    TextColor="#404551"
+                    WidthRequest="210" />
+
+                <Frame
+                    BackgroundColor="#e3e6e5"
+                    HeightRequest="170"
+                    HorizontalOptions="EndAndExpand"
+                    WidthRequest="210">
+                    <StackLayout VerticalOptions="CenterAndExpand">
+                        <StackLayout Orientation="Horizontal">
+                            <!--  Star  -->
+                            <CollectionView
+                                x:Name="star"
+                                HeightRequest="50"
+                                HorizontalOptions="CenterAndExpand"
+                                WidthRequest="150">
+                                <CollectionView.ItemsLayout>
+                                    <GridItemsLayout Orientation="Vertical" Span="5" />
+                                </CollectionView.ItemsLayout>
+                                <CollectionView.ItemTemplate>
+                                    <DataTemplate>
+                                        <Grid Padding="5">
+                                            <Grid.RowDefinitions>
+                                                <RowDefinition Height="25" />
+                                            </Grid.RowDefinitions>
+                                            <Grid.ColumnDefinitions>
+                                                <ColumnDefinition Width="25" />
+                                            </Grid.ColumnDefinitions>
+
+                                            <Image
+                                                HeightRequest="25"
+                                                Source="{Binding imgsource}"
+                                                WidthRequest="25" />
+
+                                        </Grid>
+                                    </DataTemplate>
+                                </CollectionView.ItemTemplate>
+                            </CollectionView>
+                        </StackLayout>
+                        <!--  numStar  -->
+                        <Label
+                            x:Name="Star"
+                            FontAttributes="Bold"
+                            FontSize="30"
+                            HorizontalTextAlignment="Center"
+                            TextColor="#404551" />
+                    </StackLayout>
+                </Frame>
+
+            </StackLayout>
+
+            <StackLayout
+                Grid.Row="3"
+                Grid.ColumnSpan="2"
+                Margin="10"
+                Orientation="Vertical">
+                <Button
+                    x:Name="sellbut"
+                    BackgroundColor="#FFF"
+                    BorderColor="#b1b1b1"
+                    BorderWidth="3"
+                    Clicked="Addshop"
+                    FontAttributes="Bold"
+                    FontSize="Large"
+                    HeightRequest="70"
+                    TextColor="#404551" />
+                <Button
+                    x:Name="historybut"
+                    BackgroundColor="#FFF"
+                    BorderColor="#b1b1b1"
+                    BorderWidth="3"
+                    Clicked="History"
+                    FontAttributes="Bold"
+                    FontSize="Large"
+                    HeightRequest="70"
+                    TextColor="#404551" />
+                <Button
+                    x:Name="followbut"
+                    BackgroundColor="#FFF"
+                    BorderColor="#b1b1b1"
+                    BorderWidth="3"
+                    Clicked="FollowBrand"
+                    FontAttributes="Bold"
+                    FontSize="Large"
+                    HeightRequest="70"
+                    TextColor="#404551" />
+                <Button
+                    x:Name="cartbut"
+                    BackgroundColor="#FFF"
+                    BorderColor="#b1b1b1"
+                    BorderWidth="3"
+                    Clicked="Cart"
+                    FontAttributes="Bold"
+                    FontSize="Large"
+                    HeightRequest="70"
+                    TextColor="#404551" />
+            </StackLayout>
+
+            <StackLayout
+                Grid.Row="4"
+                Grid.ColumnSpan="2"
+                Margin="-5,0,-5,-15">
+                <Button
+                    x:Name="logoutbut"
+                    BackgroundColor="#e40000"
+                    Clicked="OnSignoutClick"
+                    FontAttributes="Bold"
+                    FontSize="Large"
+                    HeightRequest="70"
+                    TextColor="#FFF" />
+
+            </StackLayout>
+
+        </Grid>
+    </ScrollView>
+
+</ContentPage>

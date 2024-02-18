@@ -1,0 +1,216 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage
+    x:Class="Shopnear.Views.ShopMapDetail"
+    xmlns="http://xamarin.com/schemas/2014/forms"
+    xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+    Title="Product Detail">
+
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="70" />
+            <RowDefinition Height="*" />
+            <RowDefinition Height="60" />
+
+        </Grid.RowDefinitions>
+
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition />
+        </Grid.ColumnDefinitions>
+
+        <StackLayout Grid.Row="0" Grid.Column="0">
+            <Frame
+                Padding="1"
+                BackgroundColor="#FFF"
+                HasShadow="True"
+                HeightRequest="70">
+                <StackLayout Orientation="Horizontal">
+                    <ImageButton
+                        Margin="-6,0"
+                        Padding="17"
+                        BackgroundColor="#FFF"
+                        Clicked="BackPage"
+                        HeightRequest="50"
+                        HorizontalOptions="Start"
+                        Source="back.png"
+                        WidthRequest="52" />
+                </StackLayout>
+            </Frame>
+        </StackLayout>
+
+        <ScrollView x:Name="ShowProduct" Grid.Row="1">
+            <StackLayout>
+                <CarouselView
+                    x:Name="Products"
+                    HeightRequest="400"
+                    IndicatorView="indicatorView">
+                    <CarouselView.ItemTemplate>
+                        <DataTemplate>
+                            <StackLayout>
+                                <StackLayout>
+                                    <Image
+                                        HeightRequest="400"
+                                        HorizontalOptions="Center"
+                                        Source="{Binding img}"
+                                        VerticalOptions="Center"
+                                        WidthRequest="400" />
+                                </StackLayout>
+                            </StackLayout>
+                        </DataTemplate>
+                    </CarouselView.ItemTemplate>
+                </CarouselView>
+                <IndicatorView
+                    x:Name="indicatorView"
+                    Margin="0,20,0,40"
+                    HorizontalOptions="Center"
+                    IndicatorColor="LightGray"
+                    IndicatorsShape="Square"
+                    SelectedIndicatorColor="DarkGray"
+                    VerticalOptions="Start" />
+
+
+
+
+
+                <StackLayout Margin="20,0" Orientation="Horizontal">
+                    <Label
+                        FontAttributes="Bold"
+                        FontSize="Medium"
+                        HorizontalOptions="StartAndExpand"
+                        Text="{Binding product_name}"
+                        TextColor="#404551" />
+
+                    <Grid>
+                        <!--  Design Follow  -->
+                        <StackLayout>
+                            <Frame
+                                Padding="1"
+                                BackgroundColor="#404551"
+                                CornerRadius="7"
+                                HeightRequest="35"
+                                HorizontalOptions="End"
+                                WidthRequest="110">
+                                <Label
+                                    x:Name="btnfollow"
+                                    FontSize="15"
+                                    HorizontalOptions="CenterAndExpand"
+                                    TextColor="#FFF"
+                                    VerticalOptions="CenterAndExpand" />
+                            </Frame>
+                        </StackLayout>
+                        <!--  command Follow  -->
+                        <Button
+                            BackgroundColor="#404551"
+                            Clicked="Pushfollow"
+                            CornerRadius="7"
+                            HeightRequest="35"
+                            HorizontalOptions="End"
+                            Opacity="0"
+                            VerticalOptions="Start"
+                            WidthRequest="110" />
+                    </Grid>
+
+                </StackLayout>
+
+                <StackLayout Margin="20,0" Orientation="Horizontal">
+                    <Label
+                        FontSize="Medium"
+                        HorizontalOptions="Start"
+                        Text="{Binding price}"
+                        TextColor="#404551" />
+
+                    <Label
+                        x:Name="thblabel"
+                        FontSize="Medium"
+                        HorizontalOptions="Start"
+                        TextColor="#404551" />
+                </StackLayout>
+
+                <StackLayout Margin="20,0" HeightRequest="60">
+                    <Frame
+                        Padding="10"
+                        BorderColor="LightGray"
+                        CornerRadius="10"
+                        HorizontalOptions="Start"
+                        WidthRequest="120">
+                        <StackLayout Orientation="Horizontal">
+                            <Entry
+                                x:Name="Number"
+                                Margin="0,-10"
+                                HorizontalOptions="Start"
+                                HorizontalTextAlignment="Center"
+                                Keyboard="Numeric"
+                                PlaceholderColor="DarkGray"
+                                TextColor="Black"
+                                VerticalOptions="End"
+                                WidthRequest="120" />
+                        </StackLayout>
+                    </Frame>
+                </StackLayout>
+
+                <StackLayout
+                    Margin="20,0"
+                    Padding="0,0,0,40"
+                    Orientation="Horizontal">
+                    <Button
+                        Padding="1"
+                        BackgroundColor="#FFF"
+                        BorderColor="LightGray"
+                        BorderWidth="2"
+                        Clicked="Neg"
+                        CornerRadius="10"
+                        FontSize="20"
+                        HeightRequest="30"
+                        HorizontalOptions="Start"
+                        Text="-"
+                        TextColor="darkGray"
+                        WidthRequest="50" />
+
+                    <Button
+                        Padding="1"
+                        BackgroundColor="#FFF"
+                        BorderColor="LightGray"
+                        BorderWidth="2"
+                        Clicked="Posi"
+                        CornerRadius="10"
+                        FontSize="20"
+                        HeightRequest="30"
+                        HorizontalOptions="Start"
+                        Text="+"
+                        TextColor="darkGray"
+                        WidthRequest="50" />
+                </StackLayout>
+
+                <Label
+                    x:Name="detaillabel"
+                    Margin="20,0"
+                    FontAttributes="Bold"
+                    FontSize="18" />
+                <Label Margin="20,0,20,30" Text="{Binding product_detail}" />
+            </StackLayout>
+        </ScrollView>
+
+        <Grid Grid.Row="2">
+            <!--  design AddCart  -->
+            <Frame
+                Padding="1"
+                BackgroundColor="#404551"
+                HeightRequest="60">
+                <StackLayout
+                    HorizontalOptions="CenterAndExpand"
+                    Orientation="Horizontal"
+                    VerticalOptions="CenterAndExpand">
+                    <Image Source="cart.png" WidthRequest="20" />
+                    <Label
+                        x:Name="addtocart"
+                        FontSize="17"
+                        TextColor="#FFF" />
+                </StackLayout>
+            </Frame>
+            <!--  command Addcart  -->
+            <Button Clicked="Buy" Opacity="0 " />
+
+        </Grid>
+
+
+    </Grid>
+</ContentPage>

@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Shell
+    x:Class="Shopnear.Views.AdminPage"
+    xmlns="http://xamarin.com/schemas/2014/forms"
+    xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+    xmlns:views="clr-namespace:Shopnear.Views">
+    <Shell.Resources>
+        <Style x:Key="BaseStyle" TargetType="Element">
+            <Setter Property="Shell.BackgroundColor" Value="#455A64" />
+            <Setter Property="Shell.ForegroundColor" Value="White" />
+            <Setter Property="Shell.TitleColor" Value="White" />
+            <Setter Property="Shell.DisabledColor" Value="#B4FFFFFF" />
+            <Setter Property="Shell.UnselectedColor" Value="#95FFFFFF" />
+        </Style>
+        <Style
+            x:Key="UserShell"
+            BasedOn="{StaticResource BaseStyle}"
+            TargetType="Element">
+            <Setter Property="Shell.BackgroundColor" Value="#e07247" />
+        </Style>
+        <Style
+            x:Key="ShopShell"
+            BasedOn="{StaticResource BaseStyle}"
+            TargetType="Element">
+            <Setter Property="Shell.BackgroundColor" Value="#e04747" />
+        </Style>
+    </Shell.Resources>
+    <TabBar Title="Animals">
+        <ShellContent
+            Title="User"
+            ContentTemplate="{DataTemplate views:CkUser}"
+            Icon="i_profile.png"
+            Style="{StaticResource UserShell}" />
+
+        <ShellContent
+            Title="Shop"
+            ContentTemplate="{DataTemplate views:CkShop}"
+            Icon="i_shop.png"
+            Style="{StaticResource ShopShell}" />
+    </TabBar>
+</Shell>

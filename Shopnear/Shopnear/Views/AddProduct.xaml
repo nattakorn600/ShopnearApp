@@ -1,0 +1,203 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage
+    x:Class="Shopnear.Views.AddProduct"
+    xmlns="http://xamarin.com/schemas/2014/forms"
+    xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml">
+
+    <ContentPage.Content>
+        <Grid>
+            <Grid.RowDefinitions>
+                <RowDefinition Height="70" />
+                <RowDefinition Height="145" />
+                <RowDefinition Height="80" />
+                <RowDefinition Height="*" />
+            </Grid.RowDefinitions>
+
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition />
+            </Grid.ColumnDefinitions>
+
+            <StackLayout Orientation="Horizontal ">
+                <Frame
+                    Padding="1"
+                    BackgroundColor="#FFF"
+                    HasShadow="True"
+                    HorizontalOptions="FillAndExpand">
+                    <StackLayout Orientation="Horizontal">
+                        <ImageButton
+                            Margin="-8"
+                            Padding="21"
+                            BackgroundColor="#FFF"
+                            Clicked="BackPage"
+                            HeightRequest="50"
+                            HorizontalOptions="Start"
+                            Source="back.png"
+                            WidthRequest="60" />
+
+                        <Label
+                            x:Name="addproductlabel"
+                            Margin="40,0,0,0"
+                            BackgroundColor="#FFF"
+                            FontAttributes="Bold"
+                            FontSize="25"
+                            HorizontalOptions="CenterAndExpand"
+                            TextColor="#404551"
+                            VerticalOptions="CenterAndExpand" />
+
+                        <Button
+                            x:Name="savebut"
+                            BackgroundColor="#FFF"
+                            Clicked="Save"
+                            FontAttributes="Bold"
+                            TextColor="#404551"
+                            WidthRequest="65" />
+                    </StackLayout>
+                </Frame>
+            </StackLayout>
+
+            <ScrollView
+                Grid.Row="1"
+                BackgroundColor="#f2f2f2"
+                Orientation="Horizontal">
+                <FlexLayout
+                    x:Name="ProductImg"
+                    Margin="10"
+                    HorizontalOptions="Start" />
+            </ScrollView>
+
+            <StackLayout Grid.Row="2" Margin="5,10,5,0">
+                <Button
+                    x:Name="clearimgbut"
+                    BorderColor="LightGray"
+                    BorderWidth="1"
+                    Clicked="ClearImage"
+                    HeightRequest="60"
+                    TextColor="Black" />
+            </StackLayout>
+
+
+            <ScrollView Grid.Row="3">
+                <StackLayout>
+                    <Frame Margin="0,20,0,0">
+                        <StackLayout Orientation="Horizontal">
+                            <Image Source="gift.png" WidthRequest="25" />
+                            <Label
+                                x:Name="productnamelabel"
+                                Margin="10,25,0,0"
+                                FontSize="18"
+                                HorizontalOptions="FillAndExpand" />
+                            <Frame
+                                Margin="0,10"
+                                Padding="10"
+                                BackgroundColor="#FFF"
+                                BorderColor="LightGray"
+                                HorizontalOptions="End">
+                                <StackLayout Orientation="Vertical">
+                                    <Entry
+                                        Margin="5,-10"
+                                        HorizontalTextAlignment="End"
+                                        Text="{Binding product_name}"
+                                        WidthRequest="150" />
+                                </StackLayout>
+                            </Frame>
+                        </StackLayout>
+                    </Frame>
+
+                    <Frame Margin="0,-35,0,0">
+                        <StackLayout Orientation="Horizontal">
+                            <Image Source="tag.png" WidthRequest="25" />
+                            <Label
+                                x:Name="pricelabel"
+                                Margin="10,25,0,0"
+                                FontSize="18"
+                                HorizontalOptions="FillAndExpand" />
+                            <Frame
+                                Margin="0,10"
+                                Padding="10"
+                                BackgroundColor="#FFF"
+                                BorderColor="LightGray"
+                                HorizontalOptions="End">
+                                <StackLayout Orientation="Horizontal">
+                                    <Entry
+                                        Margin="5,-10"
+                                        HorizontalOptions="FillAndExpand"
+                                        HorizontalTextAlignment="End"
+                                        Keyboard="Numeric"
+                                        PlaceholderColor="LightGray"
+                                        Text="{Binding price}"
+                                        TextColor="Black"
+                                        VerticalOptions="End"
+                                        WidthRequest="100" />
+                                </StackLayout>
+                            </Frame>
+                        </StackLayout>
+                    </Frame>
+
+                    <Frame Margin="0,-35,0,0">
+                        <StackLayout Orientation="Horizontal">
+                            <Image Source="boxes.png" WidthRequest="28" />
+                            <Label
+                                x:Name="stocklabel"
+                                Margin="10,25,0,0"
+                                FontSize="18"
+                                HorizontalOptions="FillAndExpand" />
+                            <Frame
+                                Margin="0,10"
+                                Padding="10"
+                                BackgroundColor="#FFF"
+                                BorderColor="LightGray"
+                                HorizontalOptions="End">
+                                <StackLayout Orientation="Horizontal">
+                                    <Entry
+                                        Margin="5,-10"
+                                        HorizontalOptions="FillAndExpand"
+                                        HorizontalTextAlignment="End"
+                                        Keyboard="Numeric"
+                                        PlaceholderColor="LightGray"
+                                        Text="{Binding stock}"
+                                        TextColor="Black"
+                                        VerticalOptions="End"
+                                        WidthRequest="100" />
+                                </StackLayout>
+                            </Frame>
+                        </StackLayout>
+                    </Frame>
+
+                    <Frame Margin="0,-25,0,0">
+                        <StackLayout>
+                            <StackLayout Orientation="Horizontal">
+                                <Image Source="document.png" WidthRequest="25" />
+                                <Label
+                                    x:Name="detaillabel"
+                                    Margin="10,10,0,0"
+                                    FontSize="18"
+                                    HorizontalOptions="FillAndExpand" />
+                            </StackLayout>
+
+                            <StackLayout>
+                                <Frame
+                                    Margin="0,10"
+                                    Padding="10"
+                                    BackgroundColor="#FFF"
+                                    BorderColor="LightGray"
+                                    HorizontalOptions="FillAndExpand">
+                                    <StackLayout Orientation="Vertical">
+                                        <Editor
+                                            Margin="5,-10"
+                                            AutoSize="TextChanges"
+                                            HorizontalOptions="FillAndExpand"
+                                            Text="{Binding product_detail}" />
+                                    </StackLayout>
+                                </Frame>
+                            </StackLayout>
+                        </StackLayout>
+                    </Frame>
+
+                </StackLayout>
+            </ScrollView>
+
+
+
+        </Grid>
+    </ContentPage.Content>
+</ContentPage>

@@ -1,0 +1,162 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage
+    x:Class="Shopnear.Views.ProductPage"
+    xmlns="http://xamarin.com/schemas/2014/forms"
+    xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+    xmlns:d="http://xamarin.com/schemas/2014/forms/design"
+    xmlns:local="clr-namespace:Shopnear.Views"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d">
+
+    <ContentPage.BindingContext>
+        <local:ProductPageViewsModels />
+    </ContentPage.BindingContext>
+
+    <ContentPage.Resources>
+        <Style TargetType="Grid">
+            <Setter Property="BackgroundColor" Value="#FFF" />
+        </Style>
+    </ContentPage.Resources>
+
+    <Grid BackgroundColor="#fff">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition />
+        </Grid.ColumnDefinitions>
+
+        <Grid.RowDefinitions>
+            <RowDefinition Height="70" />
+            <RowDefinition Height="*" />
+        </Grid.RowDefinitions>
+
+        <Frame
+            Grid.Row="0"
+            Grid.ColumnSpan="2"
+            Padding="1"
+            BackgroundColor="White"
+            HeightRequest="70">
+            <StackLayout Orientation="Horizontal ">
+
+                <ImageButton
+                    x:Name="user_picture"
+                    Margin="10"
+                    BackgroundColor="Black"
+                    Clicked="ToProfilePage"
+                    CornerRadius="500"
+                    HeightRequest="48"
+                    HorizontalOptions="Start"
+                    WidthRequest="48" />
+
+                <Label
+                    FontSize="Title"
+                    HorizontalOptions="CenterAndExpand"
+                    Text="SHOPNEAR"
+                    VerticalTextAlignment="Center" />
+
+                <ImageButton
+                    Padding="17"
+                    BackgroundColor="White"
+                    Clicked="Pinmap"
+                    HorizontalOptions="End"
+                    Source="pinmap.png" />
+
+
+            </StackLayout>
+        </Frame>
+
+        <RefreshView
+            Grid.Row="1"
+            Grid.ColumnSpan="2"
+            Command="{Binding RefreshCommand}"
+            IsRefreshing="{Binding IsRefreshing}">
+            <ScrollView>
+                <StackLayout>
+
+                    <CollectionView
+                        x:Name="Products"
+                        SelectionChanged="OnCollectionViewSelectionChanged"
+                        SelectionMode="Single">
+                        <CollectionView.ItemsLayout>
+                            <GridItemsLayout Orientation="Vertical" Span="2" />
+                        </CollectionView.ItemsLayout>
+                        <CollectionView.ItemTemplate>
+                            <DataTemplate>
+                                <Grid Padding="5">
+                                    <Grid.RowDefinitions>
+                                        <RowDefinition Height="265" />
+                                    </Grid.RowDefinitions>
+                                    <Grid.ColumnDefinitions>
+                                        <ColumnDefinition Width="*" />
+                                    </Grid.ColumnDefinitions>
+
+                                    <Frame Padding="1" BorderColor="lightGray">
+                                        <StackLayout
+                                            Padding="5"
+                                            BackgroundColor="#f8fafc"
+                                            Orientation="Vertical">
+
+                                            <Image
+                                                Aspect="AspectFill"
+                                                HeightRequest="180"
+                                                Source="{Binding img}"
+                                                WidthRequest="60" />
+                                            <Label
+                                                Padding="5,0"
+                                                FontAttributes="Bold"
+                                                FontSize="18"
+                                                LineBreakMode="TailTruncation"
+                                                Text="{Binding product_name}" />
+                                            <StackLayout Margin="0,0" Orientation="Horizontal">
+                                                <Label
+                                                    Padding="5,0"
+                                                    FontSize="Small"
+                                                    LineBreakMode="TailTruncation"
+                                                    Text="{Binding price}"
+                                                    VerticalOptions="End" />
+                                                <Label
+                                                    FontSize="Small"
+                                                    HorizontalOptions="Start"
+                                                    LineBreakMode="TailTruncation"
+                                                    Text="THB"
+                                                    TextColor="#404551" />
+                                            </StackLayout>
+                                        </StackLayout>
+                                    </Frame>
+                                </Grid>
+                            </DataTemplate>
+                        </CollectionView.ItemTemplate>
+                        <CollectionView.Header>
+                            <Grid>
+                                <CarouselView
+                                    x:Name="Promotion"
+                                    HeightRequest="200"
+                                    IndicatorView="indicatorView">
+                                    <CarouselView.ItemTemplate>
+                                        <DataTemplate>
+                                            <StackLayout>
+                                                <Image
+                                                    HeightRequest="200"
+                                                    HorizontalOptions="FillAndExpand"
+                                                    Source="{Binding img}"
+                                                    VerticalOptions="Center"
+                                                    WidthRequest="400" />
+                                            </StackLayout>
+                                        </DataTemplate>
+                                    </CarouselView.ItemTemplate>
+                                </CarouselView>
+                                <IndicatorView
+                                    x:Name="indicatorView"
+                                    Margin="0,20,0,5"
+                                    HorizontalOptions="Center"
+                                    IndicatorColor="LightGray"
+                                    IndicatorsShape="Circle"
+                                    SelectedIndicatorColor="DarkGray"
+                                    VerticalOptions="End" />
+                            </Grid>
+                        </CollectionView.Header>
+                    </CollectionView>
+                </StackLayout>
+            </ScrollView>
+        </RefreshView>
+    </Grid>
+
+</ContentPage>

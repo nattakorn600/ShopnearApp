@@ -1,0 +1,160 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage
+    x:Class="Shopnear.Views.ProfileInfoPage"
+    xmlns="http://xamarin.com/schemas/2014/forms"
+    xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+    xmlns:d="http://xamarin.com/schemas/2014/forms/design"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    BackgroundColor="#FFF"
+    mc:Ignorable="d">
+    <ContentPage.Content>
+        <Grid x:Name="reload">
+            <Grid.RowDefinitions>
+                <RowDefinition Height="70" />
+                <RowDefinition Height="250" />
+                <RowDefinition Height="70" />
+                <RowDefinition Height="70" />
+                <RowDefinition Height="70" />
+                <RowDefinition Height="70" />
+            </Grid.RowDefinitions>
+
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition />
+            </Grid.ColumnDefinitions>
+
+            <StackLayout Grid.Row="0" Grid.Column="0">
+                <Frame
+                    Padding="1"
+                    BackgroundColor="#FFF"
+                    HasShadow="True"
+                    HeightRequest="70">
+                    <StackLayout Orientation="Horizontal">
+                        <ImageButton
+                            Margin="-6,0"
+                            Padding="17"
+                            BackgroundColor="#FFF"
+                            Clicked="BackPage"
+                            HeightRequest="50"
+                            HorizontalOptions="Start"
+                            Source="back.png"
+                            WidthRequest="52" />
+                        <Button
+                            x:Name="savebut"
+                            BackgroundColor="#FFF"
+                            Clicked="OnSave"
+                            FontAttributes="Bold"
+                            FontSize="Body"
+                            HorizontalOptions="EndAndExpand"
+                            TextColor="#404551" />
+                    </StackLayout>
+                </Frame>
+            </StackLayout>
+
+            <StackLayout
+                Grid.Row="1"
+                Grid.Column="0"
+                HorizontalOptions="Center"
+                Orientation="Horizontal">
+                <ImageButton
+                    x:Name="user_picture"
+                    BackgroundColor="Black"
+                    Clicked="ImageClicked"
+                    CornerRadius="200"
+                    HeightRequest="250"
+                    WidthRequest="250" />
+            </StackLayout>
+
+            <StackLayout
+                Grid.Row="2"
+                Grid.Column="0"
+                Margin="10,0">
+                <Frame
+                    Margin="10"
+                    Padding="10"
+                    BorderColor="DarkGray"
+                    CornerRadius="10"
+                    HorizontalOptions="FillAndExpand">
+                    <StackLayout Orientation="Horizontal">
+                        <Entry
+                            x:Name="Name"
+                            Margin="5,-10"
+                            HorizontalOptions="FillAndExpand"
+                            PlaceholderColor="DarkGray"
+                            Text="{Binding Name}"
+                            TextColor="Black"
+                            VerticalOptions="End" />
+                    </StackLayout>
+                </Frame>
+            </StackLayout>
+
+            <StackLayout
+                Grid.Row="3"
+                Grid.Column="0"
+                Margin="10,0">
+                <Frame
+                    Margin="10"
+                    Padding="10"
+                    BorderColor="DarkGray"
+                    CornerRadius="10"
+                    HorizontalOptions="FillAndExpand">
+                    <StackLayout Orientation="Horizontal">
+                        <Entry
+                            x:Name="phone"
+                            Margin="5,-10"
+                            HorizontalOptions="FillAndExpand"
+                            PlaceholderColor="DarkGray"
+                            Text="{Binding Phone}"
+                            TextColor="Black"
+                            VerticalOptions="End" />
+                    </StackLayout>
+                </Frame>
+            </StackLayout>
+
+            <StackLayout
+                Grid.Row="4"
+                Grid.Column="0"
+                Margin="10,0">
+                <Frame
+                    Margin="10"
+                    Padding="10"
+                    BorderColor="DarkGray"
+                    CornerRadius="10"
+                    HorizontalOptions="FillAndExpand">
+                    <StackLayout Orientation="Horizontal">
+                        <Entry
+                            x:Name="location"
+                            Margin="5,-10"
+                            HorizontalOptions="FillAndExpand"
+                            PlaceholderColor="DarkGray"
+                            Text="{Binding Location}"
+                            TextColor="Black"
+                            VerticalOptions="End" />
+                    </StackLayout>
+                </Frame>
+            </StackLayout>
+
+            <StackLayout
+                Grid.Row="5"
+                Grid.Column="0"
+                Margin="10,0">
+                <Frame
+                    Margin="10"
+                    Padding="10"
+                    BorderColor="DarkGray"
+                    CornerRadius="10"
+                    HorizontalOptions="FillAndExpand">
+                    <StackLayout Orientation="Horizontal">
+                        <Entry
+                            x:Name="account_number"
+                            Margin="5,-10"
+                            HorizontalOptions="FillAndExpand"
+                            PlaceholderColor="DarkGray"
+                            Text="{Binding Account_Number}"
+                            TextColor="Black"
+                            VerticalOptions="End" />
+                    </StackLayout>
+                </Frame>
+            </StackLayout>
+        </Grid>
+    </ContentPage.Content>
+</ContentPage>
